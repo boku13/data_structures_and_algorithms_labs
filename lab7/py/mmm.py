@@ -1,4 +1,3 @@
-# from scratch max heap
 class MaxHeap:
     def __init__(self):
         self.heap = []
@@ -13,13 +12,13 @@ class MaxHeap:
         return 2 * i + 2
 
     def get_max(self):
-        if self.is_empty():
-            raise IndexError("Heap is empty")
-        return self.heap[0].priority
+        if self.heap:
+            return self.heap[0]
+        return None
 
     def extract_max(self):
-        if self.is_empty():
-            raise IndexError("Heap is empty")
+        if not self.heap:
+            return None
 
         max_item = self.heap[0]
         last_item = self.heap.pop()
@@ -29,16 +28,16 @@ class MaxHeap:
             self.max_heapify(0)
 
         return max_item
-    
+
     def max_heapify(self, i):
         left_child = self.left(i)
         right_child = self.right(i)
         largest = i
 
-        if left_child < len(self.heap) and self.heap[left_child].priority > self.heap[largest].priority:
+        if left_child < len(self.heap) and self.heap[left_child] > self.heap[largest]:
             largest = left_child
 
-        if right_child < len(self.heap) and self.heap[right_child].priority > self.heap[largest].priority:
+        if right_child < len(self.heap) and self.heap[right_child] > self.heap[largest]:
             largest = right_child
 
         if largest != i:
@@ -47,18 +46,15 @@ class MaxHeap:
 
     def insert(self, item):
         self.heap.append(item)
-        index = len(self.heap) - 1
+        i = len(self.heap) - 1
 
-        while index > 0:
-            parent_index = self.parent(index)
-            if self.heap[index].priority > self.heap[parent_index].priority:
-                self.heap[index], self.heap[parent_index] = self.heap[parent_index], self.heap[index]
-                index = parent_index
-            else:
-                break
+        while i > 0 and self.heap[self.parent(i)] < self.heap[i]:
+            self.heap[i], self.heap[self.parent(i)] = self.heap[self.parent(i)], self.heap[i]
+            i = self.parent(i)
 
     def is_empty(self):
-        return len(self.heap) == 0
+        return not bool(self.heap)
+    
 
 class Graph:
     def __init__(self):
@@ -142,76 +138,40 @@ class Graph:
 
         return dfs_recursive(source, [source])
 
+    def bfs_link(self, vertex, destination_city):
+        return self.bfs(vertex.name, destination_city)[1]
+    
+    
+    def groupFreightCars(self):
+        # group freight cars at every vertex based on their destination
+        for vertex in self.vertices.values(): 
+            for destination_city, cars in vertex.freight_cars_can_move.items():
+                if len(cars) >= vertex.min_freight_cars_to_move:
+                    link = self.bfs_link(vertex, destination_city)
+                    for car in cars:
+                        if link not in vertex.trains_to_move:
+                            vertex.trains_to_move[link] = []
+                        vertex.trains_to_move.append(car)
+            
+                else: 
+                    links = self.dfs(vertex.name, destination_city)
+                    for link in links:
+                        pass
+                            
 
-
-    # def groupFreightCars(self):
-    #     # group freight cars at every vertex based on their destination
-    #     for vertex in self.vertices.values():
-    #         grouped_freight_cars = []
-    #         for freight_car in vertex.freight_cars:
-    #             if freight_car.next_link is not None:
-    #                 grouped_freight_cars.append(freight_car)
-
-    #         # Group freight cars based on their next_link
-    #         grouped_by_link = {}
-    #         for freight_car in grouped_freight_cars:
-    #             link = freight_car.next_link
-    #             if link not in grouped_by_link:
-    #                 grouped_by_link[link] = []
-    #             grouped_by_link[link].append(freight_car)
-
-    #         # Move the grouped freight cars to the next link
-    #         for link, freight_cars in grouped_by_link.items():
-    #             if len(freight_cars) >= vertex.min_freight_cars_to_move:
-    #                 for freight_car in freight_cars:
-    #                     freight_car.move(link)
-
-    # def moveTrains(self):
+    def moveTrains(self):
         # move trains  (constitutes one time tick)
         # a train should move only if has >= min_freight_cars_to_move freight cars to link (link is a vertex, obtained from bfs or dfs)
         # once train moves from the source vertex, all the freight cars should be sealed and cannot be unloaded (at any intermediate station) until they reach their destination
-        # for vertex in self.vertices.values():
-        #     for freight_car in vertex.freight_cars:
-        #         if freight_car.can_move():
-        #             destination = freight_car.next_link
-        #             train = [freight_car]
-                    
-        #             # Find other freight cars to form a train
-        #             for other_freight_car in vertex.freight_cars:
-        #                 if other_freight_car != freight_car and other_freight_car.next_link == destination:
-        #                     train.append(other_freight_car)
-        #                     if len(train) >= vertex.min_freight_cars_to_move:
-        #                         break
-                    
-        #             if len(train) >= vertex.min_freight_cars_to_move:
-        #                 # Move the train to the next link
-        #                 for train_freight_car in train:
-        #                     train_freight_car.move(destination)
-    # def moveTrains(self):
-    #     for vertex in self.vertices.values():
-    #         for freight_car in vertex.freight_cars:
-    #             if freight_car.can_move():
-    #                 destination = freight_car.next_link
-    #                 if destination:
-    #                     path_bfs = self.bfs(vertex.name, destination)
-    #                     path_dfs = self.dfs(vertex.name, destination)
-                        
-    #                     # Choose BFS or DFS path based on your preference or requirements
-    #                     path = path_bfs if path_bfs else path_dfs
-                        
-    #                     if path:
-    #                         train = [freight_car]
-    #                         for other_freight_car in vertex.freight_cars:
-    #                             if other_freight_car != freight_car and other_freight_car.next_link == destination:
-    #                                 train.append(other_freight_car)
-    #                                 if len(train) >= vertex.min_freight_cars_to_move:
-    #                                     break
-
-    #                         if len(train) >= vertex.min_freight_cars_to_move:
-    #                             for i, train_freight_car in enumerate(train):
-    #                                 train_freight_car.move(path[i + 1])
-
-
+        for vertex in self.vertices.values():
+            for link, cars in vertex.trains_to_move.items():
+                for car in cars:
+                    car.move(link)                    
+                    if car.current_location != car.origin:
+                        car.sealed = True
+    
+    def train_can_move(self):
+        pass
 
 
 class Vertex:   #done
@@ -221,6 +181,7 @@ class Vertex:   #done
         self.name = name
         self.freight_cars = []
         self.neighbors = []
+        self.freight_cars_can_move = {}
         self.trains_to_move = {}
         self.min_freight_cars_to_move = min_freight_cars_to_move
         self.max_parcel_capacity = max_parcel_capacity
@@ -264,11 +225,23 @@ class Vertex:   #done
                 freight_cars = []
                 freight_car = FreightCar(self.max_parcel_capacity)
                 freight_car.destination_city = destination
-                while len(self.freight_car.parcels) < self.max_parcel_capacity:
-                    freight_car.parcels.load_parcels(heap.extract_max())
-                    freight_cars.append(freight_car)
-                self.trains_to_move[destination].append(freight_cars)
-                    
+                while len(freight_car.parcels) < self.max_parcel_capacity and heap.is_empty() == False:
+                    # print(heap.get_max())
+                    # print(heap.get_max().parcel_id)
+                    # print(heap.get_max().priority)
+                    freight_car.load_parcel(heap.extract_max())
+                    self.freight_cars.append(freight_car)
+            print("1--------------------------------------------------")  
+            print(self.freight_cars)
+            print("1--------------------------------------------------")  
+                # self.trains_to_move[destination].append(freight_cars) gotta use this in graph group method
+              
+    def group_freight_cars(self):
+        for car in self.freight_cars:
+            if car.can_move:
+                if car.destination_city not in self.freight_cars_can_move:
+                    self.freight_cars_can_move[car.destination_city] = []
+                self.freight_cars_can_move[car.destination_city].append(car)      
 
     def print_parcels_in_freight_cars(self):
         # optional method to print parcels in freight cars
@@ -284,10 +257,13 @@ class FreightCar:   #done
         self.next_link = None
         self.current_location = None
         self.sealed = False
-
+        self.origin = None #remove if this messes with anything else
+        
     def load_parcel(self, parcel):
         # load parcel into freight car
         self.parcels.append(parcel)
+        self.origin = parcel.origin
+        self.destination = parcel.destination
 
     def can_move(self):
         # return True if freight car can move, False otherwise
@@ -316,7 +292,7 @@ class Parcel:
         self.priority = priority
         self.delivered = False
         self.current_location = origin
-    
+        
     def __lt__(self, other):
         # Custom comparison 
         return self.priority < other.priority
@@ -374,7 +350,9 @@ class PRC:
         if run_till_time_tick is not None:
             self.max_time_tick = run_till_time_tick
         
-        while self.time_tick <= self.max_time_tick:
+        # while self.time_tick <= self.max_time_tick:
+        while self.time_tick <= 1:
+        
             # receive parcel at current time tick
             # load parcel into the freight car
             # compute the next link with bfs 
@@ -385,18 +363,87 @@ class PRC:
             self.old_state = self.new_state
             self.new_state = self.get_state_of_parcels()
             
+            # print(self.get_state_of_parcels())
+            
+            # print("---------------------------------------------------")
+            # print("Parcels with time tick")
+            # print("\n")
+            
+            # print(self.parcels_with_time_tick)
+            # print("Status of parcels at time tick:", self.status_of_parcels_at_time_tick(self.time_tick))
+            
+            # print("\n")
+            # print(self.parcels_with_time_tick[1][0].parcel_id)
+            # print("---")
+            
+            # print("Parcles at a particular tick")
+            # print(self.parcels_with_time_tick[self.time_tick])
+            
             # Process parcels for the current time tick
+            print("---------------------------------------------------")      
+            
+            print(f"All parcels to be loaded at a time tick :")
+            for parcel in self.parcels_with_time_tick[1]:
+                print(parcel.parcel_id)
+            
+            print("------------------------------------------------------")
             if self.time_tick in self.parcels_with_time_tick:
                 for parcel in self.parcels_with_time_tick[self.time_tick]:
+                    print(parcel.parcel_id)
                     new_bookings = self.getNewBookingsatTimeTickatVertex(self.time_tick, parcel.origin)
-                for parcel in new_bookings:
+                    print(f"Time Tick : {self.time_tick}, Parcel Origin : {parcel.origin} ")
+                    # for booking in new_bookings:
+                    #     print(booking.parcel_id)
+                    
+                    # print("-------------------------------------------------------------------")
+                    
                     vertex = self.graph.vertices[parcel.origin]
                     vertex.loadParcel(parcel)
-
+                    
+                    print(f"Parcel Loaded : {parcel.parcel_id}")
+                           
+                        # print("Loaded Parcels")
+                        # for parcel in self.graph.vertices[parcel.origin].all_parcels:
+                            
+                        #     print(parcel.parcel_id)  
+            
+            print("---------------------------------------------------")      
+            
+            for city, vertex in self.graph.vertices.items():
+                print(f"Final Loaded Parcels at {city} : ")
+                for parcel in vertex.all_parcels:
+                    print(parcel.parcel_id)
+            
+            print("---------------------------------------------------")      
+            
+            #checking the heaps
+            for city, vertex in self.graph.vertices.items():
+                for destination, heap in vertex.parcel_destination_heaps.items():
+                    print(f"Parcels in heap for {destination} at {city}:")
+                    for parcel in heap.heap:
+                        print(parcel.parcel_id)
+    
+            
+            print("---------------------------------------------------")  
+            
             # Update states for all vertices
             for vertex in self.graph.vertices.values():
-                vertex.clean_unmoved_freight_cars()
+                #unecessary for tick 1
+                # vertex.clean_unmoved_freight_cars() #check if this working
+                
                 vertex.loadFreightCars()
+            
+            print("---------------------------------------------------")
+            
+            for city, vertex in self.graph.vertices.items():
+                print(f"Final Loaded Cars at {city} :")
+                print(vertex.freight_cars)
+                # for car in vertex.freight_cars:
+                #     print(car)
+            
+            print("---------------------------------------------------")
+                
+            
 
             # Move trains
             self.graph.groupFreightCars()            
@@ -404,18 +451,23 @@ class PRC:
             
             print("---------------------------------------------------")
             
-            print("Time tick : ", self.time_tick)
-            print(self.get_parcels_delivered_upto_time_tick(self.time_tick))
-            print(self.get_state_of_parcels())
-            print(self.status_of_parcels_at_time_tick())
-            print(self.getNewBookingsatTimeTickatVertex())
-            print(self.get_delivered_parcels())
-            print(self.get_stranded_parcels())
+            print("Time tick:", self.time_tick)
+            print("---------------------------------------------------")
+            print("Parcels delivered up to time tick:", self.get_parcels_delivered_upto_time_tick(self.time_tick))
+            print("---------------------------------------------------")
             
+            print("State of parcels:", self.get_state_of_parcels())
+            print("---------------------------------------------------")
             
+           
             print("---------------------------------------------------")
             
             
+            print("Delivered parcels:", self.get_delivered_parcels())
+            
+            print("Stranded parcels:", self.get_stranded_parcels())
+            
+            print("---------------------------------------------------")
             
             
             if self.convergence_check(self.old_state, self.new_state):
@@ -475,25 +527,25 @@ if __name__ == "__main__":
     # #my stuff
     prc_n = PRC(5,5)
     # create a graph
-    prc_n.create_graph('samples/2/graph.txt')
-    prc_n.process_parcels('samples/2/bookings.txt')
+    prc_n.create_graph('samples/3/graph.txt')
+    prc_n.process_parcels('samples/3/bookings.txt')
     print(prc.graph.vertices)
-    # prc_n.graph.print_graph()
-    # prc_n.graph.print_graph_edges()
-    # # prc_n.graph.print_vertices()  
-    # # print(len(prc_n.graph.vertices))
-    # print(len(prc_n.graph.edges))
+    prc_n.graph.print_graph()
+    prc_n.graph.print_graph_edges()
+    # prc_n.graph.print_vertices()  
+    # print(len(prc_n.graph.vertices))
+    print(len(prc_n.graph.edges))
     
     
-        # create a PRC object
-    prc = PRC(2, 2)
-    # create a graph
-    prc.create_graph('samples/2/graph.txt')
-    prc.process_parcels('samples/2/bookings.txt')
-    prc.run_simulation(3)
-    assert prc.all_parcels_delivered() == False
-    assert 'P2Ludhiana4' in prc.get_stranded_parcels()
+    #     # create a PRC object
+    # prc = PRC(2, 2)
+    # # create a graph
+    # prc.create_graph('samples/2/graph.txt')
+    # prc.process_parcels('samples/2/bookings.txt')
+    # prc.run_simulation(3)
+    # assert prc.all_parcels_delivered() == False
+    # assert 'P2Ludhiana4' in prc.get_stranded_parcels()
 
-    prc.run_simulation(4)
-    print(prc.get_stranded_parcels())
-    assert 'P2Ludhiana4' not in prc.get_stranded_parcels()
+    # prc.run_simulation(4)
+    # print(prc.get_stranded_parcels())
+    # assert 'P2Ludhiana4' not in prc.get_stranded_parcels()

@@ -1,4 +1,4 @@
-from mm import PRC
+from mmm import PRC
 
 def test_case_1():
     # create a PRC object
@@ -11,6 +11,7 @@ def test_case_1():
     assert 'P2Ludhiana4' in prc.get_stranded_parcels()
 
     prc.run_simulation(4)
+    print(prc.get_stranded_parcels())
     assert 'P2Ludhiana4' not in prc.get_stranded_parcels()
 
     # delete the prc object
@@ -69,9 +70,9 @@ def test_case_6():
     assert "Tirupati" not in prc.graph.dfs('Chennai', "Rohtak")
 
 # run the test cases
-# test_case_1()
-# test_case_2()
-# test_case_3()
+test_case_1()
+test_case_2()
+test_case_3()
 test_case_4()
-# test_case_5()
-# test_case_6()
+test_case_5()
+test_case_6()
