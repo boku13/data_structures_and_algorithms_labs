@@ -14,7 +14,7 @@ class MaxHeap:
     def __init__(self):
         self.heap = []
 
-    def insert(self, vertex):
+    def push(self, vertex):
         heapq.heappush(self.heap, vertex)
 
     def pop(self):

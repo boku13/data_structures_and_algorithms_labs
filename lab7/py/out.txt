@@ -1,0 +1,5732 @@
+TIME TICK TIME TIME TICK : 1 ----------------------------
+---------------------------------------------------
+All parcels to be loaded at a time tick :
+P1Jammu1
+P1Jammu2
+P1Jammu3
+P1Jammu4
+P1Bangalore1
+P1Bangalore2
+P1Mumbai1
+P1Vadodara1
+P1Vadodara2
+P1Vadodara3
+P1Tirupati1
+P1Tirupati2
+P1Faridabad1
+P1Madurai1
+P1Chennai1
+P1Chennai2
+P1Chennai3
+P1Agra1
+P1Agra2
+P1Agra3
+P1Agra4
+P1Kolkata1
+P1Kolkata2
+P1Kolkata3
+P1Ambala1
+P1Tirupati1
+P1Tirupati2
+P1Tirupati3
+P1Bangalore1
+P1Nagpur1
+P1Nagpur2
+------------------------------------------------------
+P1Jammu1
+Time Tick : 1, Parcel Origin : Jammu 
+Parcel Loaded : P1Jammu1
+P1Jammu2
+Time Tick : 1, Parcel Origin : Jammu 
+Parcel Loaded : P1Jammu2
+P1Jammu3
+Time Tick : 1, Parcel Origin : Jammu 
+Parcel Loaded : P1Jammu3
+P1Jammu4
+Time Tick : 1, Parcel Origin : Jammu 
+Parcel Loaded : P1Jammu4
+P1Bangalore1
+Time Tick : 1, Parcel Origin : Bangalore 
+Parcel Loaded : P1Bangalore1
+P1Bangalore2
+Time Tick : 1, Parcel Origin : Bangalore 
+Parcel Loaded : P1Bangalore2
+P1Mumbai1
+Time Tick : 1, Parcel Origin : Mumbai 
+Parcel Loaded : P1Mumbai1
+P1Vadodara1
+Time Tick : 1, Parcel Origin : Vadodara 
+Parcel Loaded : P1Vadodara1
+P1Vadodara2
+Time Tick : 1, Parcel Origin : Vadodara 
+Parcel Loaded : P1Vadodara2
+P1Vadodara3
+Time Tick : 1, Parcel Origin : Vadodara 
+Parcel Loaded : P1Vadodara3
+P1Tirupati1
+Time Tick : 1, Parcel Origin : Tirupati 
+Parcel Loaded : P1Tirupati1
+P1Tirupati2
+Time Tick : 1, Parcel Origin : Tirupati 
+Parcel Loaded : P1Tirupati2
+P1Faridabad1
+Time Tick : 1, Parcel Origin : Faridabad 
+Parcel Loaded : P1Faridabad1
+P1Madurai1
+Time Tick : 1, Parcel Origin : Madurai 
+Parcel Loaded : P1Madurai1
+P1Chennai1
+Time Tick : 1, Parcel Origin : Chennai 
+Parcel Loaded : P1Chennai1
+P1Chennai2
+Time Tick : 1, Parcel Origin : Chennai 
+Parcel Loaded : P1Chennai2
+P1Chennai3
+Time Tick : 1, Parcel Origin : Chennai 
+Parcel Loaded : P1Chennai3
+P1Agra1
+Time Tick : 1, Parcel Origin : Agra 
+Parcel Loaded : P1Agra1
+P1Agra2
+Time Tick : 1, Parcel Origin : Agra 
+Parcel Loaded : P1Agra2
+P1Agra3
+Time Tick : 1, Parcel Origin : Agra 
+Parcel Loaded : P1Agra3
+P1Agra4
+Time Tick : 1, Parcel Origin : Agra 
+Parcel Loaded : P1Agra4
+P1Kolkata1
+Time Tick : 1, Parcel Origin : Kolkata 
+Parcel Loaded : P1Kolkata1
+P1Kolkata2
+Time Tick : 1, Parcel Origin : Kolkata 
+Parcel Loaded : P1Kolkata2
+P1Kolkata3
+Time Tick : 1, Parcel Origin : Kolkata 
+Parcel Loaded : P1Kolkata3
+P1Ambala1
+Time Tick : 1, Parcel Origin : Ambala 
+Parcel Loaded : P1Ambala1
+P1Tirupati1
+Time Tick : 1, Parcel Origin : Tirupati 
+Parcel Loaded : P1Tirupati1
+P1Tirupati2
+Time Tick : 1, Parcel Origin : Tirupati 
+Parcel Loaded : P1Tirupati2
+P1Tirupati3
+Time Tick : 1, Parcel Origin : Tirupati 
+Parcel Loaded : P1Tirupati3
+P1Bangalore1
+Time Tick : 1, Parcel Origin : Bangalore 
+Parcel Loaded : P1Bangalore1
+P1Nagpur1
+Time Tick : 1, Parcel Origin : Nagpur 
+Parcel Loaded : P1Nagpur1
+P1Nagpur2
+Time Tick : 1, Parcel Origin : Nagpur 
+Parcel Loaded : P1Nagpur2
+---------------------------------------------------
+Final Loaded Parcels at Mumbai : 
+P1Mumbai1
+Final Loaded Parcels at Surat : 
+Final Loaded Parcels at Pune : 
+Final Loaded Parcels at Patna : 
+Final Loaded Parcels at Nashik : 
+Final Loaded Parcels at Nellore : 
+Final Loaded Parcels at Tirupati : 
+P1Tirupati1
+P1Tirupati2
+P1Tirupati1
+P1Tirupati2
+P1Tirupati3
+Final Loaded Parcels at Delhi : 
+Final Loaded Parcels at Ahmedabad : 
+Final Loaded Parcels at Jaipur : 
+Final Loaded Parcels at Madurai : 
+P1Madurai1
+Final Loaded Parcels at Jammu : 
+P1Jammu1
+P1Jammu2
+P1Jammu3
+P1Jammu4
+Final Loaded Parcels at Belgaum : 
+Final Loaded Parcels at Mangalore : 
+Final Loaded Parcels at Bangalore : 
+P1Bangalore1
+P1Bangalore2
+P1Bangalore1
+Final Loaded Parcels at Hyderabad : 
+Final Loaded Parcels at Lucknow : 
+Final Loaded Parcels at Nagpur : 
+P1Nagpur1
+P1Nagpur2
+Final Loaded Parcels at Agra : 
+P1Agra1
+P1Agra2
+P1Agra3
+P1Agra4
+Final Loaded Parcels at Faridabad : 
+P1Faridabad1
+Final Loaded Parcels at Kolkata : 
+P1Kolkata1
+P1Kolkata2
+P1Kolkata3
+Final Loaded Parcels at Kanpur : 
+Final Loaded Parcels at Visakhapatnam : 
+Final Loaded Parcels at Jamshedpur : 
+Final Loaded Parcels at Rohtak : 
+Final Loaded Parcels at Chennai : 
+P1Chennai1
+P1Chennai2
+P1Chennai3
+Final Loaded Parcels at Ludhiana : 
+Final Loaded Parcels at Ambala : 
+P1Ambala1
+Final Loaded Parcels at Bhopal : 
+Final Loaded Parcels at Vadodara : 
+P1Vadodara1
+P1Vadodara2
+P1Vadodara3
+---------------------------------------------------
+Parcels in heap for Patna at Mumbai:
+P1Mumbai1
+Parcels in heap for Pune at Tirupati:
+P1Tirupati1
+P1Tirupati2
+Parcels in heap for Bhopal at Tirupati:
+P1Tirupati1
+P1Tirupati2
+P1Tirupati3
+Parcels in heap for Pune at Madurai:
+P1Madurai1
+Parcels in heap for Lucknow at Jammu:
+P1Jammu1
+P1Jammu2
+P1Jammu3
+P1Jammu4
+Parcels in heap for Pune at Bangalore:
+P1Bangalore2
+P1Bangalore1
+Parcels in heap for Mangalore at Bangalore:
+P1Bangalore1
+Parcels in heap for Ambala at Nagpur:
+P1Nagpur2
+P1Nagpur1
+Parcels in heap for Kanpur at Agra:
+P1Agra4
+P1Agra1
+P1Agra3
+P1Agra2
+Parcels in heap for Kolkata at Faridabad:
+P1Faridabad1
+Parcels in heap for Belgaum at Kolkata:
+P1Kolkata3
+P1Kolkata2
+P1Kolkata1
+Parcels in heap for Nellore at Chennai:
+P1Chennai3
+P1Chennai2
+P1Chennai1
+Parcels in heap for Mangalore at Ambala:
+P1Ambala1
+Parcels in heap for Faridabad at Vadodara:
+P1Vadodara3
+P1Vadodara1
+P1Vadodara2
+---------------------------------------------------
+---------------------------------------------------
+Final Loaded Cars at Mumbai :
+--------------------------------------
+Mumbai Patna
+P1Mumbai1 5
+--------------------------------------
+Final Loaded Cars at Surat :
+Final Loaded Cars at Pune :
+Final Loaded Cars at Patna :
+Final Loaded Cars at Nashik :
+Final Loaded Cars at Nellore :
+Final Loaded Cars at Tirupati :
+--------------------------------------
+Tirupati Pune
+P1Tirupati1 3
+P1Tirupati2 3
+--------------------------------------
+--------------------------------------
+Tirupati Bhopal
+P1Tirupati1 8
+P1Tirupati3 2
+--------------------------------------
+--------------------------------------
+Tirupati Bhopal
+P1Tirupati2 2
+--------------------------------------
+Final Loaded Cars at Delhi :
+Final Loaded Cars at Ahmedabad :
+Final Loaded Cars at Jaipur :
+Final Loaded Cars at Madurai :
+--------------------------------------
+Madurai Pune
+P1Madurai1 9
+--------------------------------------
+Final Loaded Cars at Jammu :
+--------------------------------------
+Jammu Lucknow
+P1Jammu1 8
+P1Jammu2 8
+--------------------------------------
+--------------------------------------
+Jammu Lucknow
+P1Jammu3 5
+P1Jammu4 4
+--------------------------------------
+Final Loaded Cars at Belgaum :
+Final Loaded Cars at Mangalore :
+Final Loaded Cars at Bangalore :
+--------------------------------------
+Bangalore Pune
+P1Bangalore2 6
+P1Bangalore1 3
+--------------------------------------
+--------------------------------------
+Bangalore Mangalore
+P1Bangalore1 3
+--------------------------------------
+Final Loaded Cars at Hyderabad :
+Final Loaded Cars at Lucknow :
+Final Loaded Cars at Nagpur :
+--------------------------------------
+Nagpur Ambala
+P1Nagpur2 5
+P1Nagpur1 1
+--------------------------------------
+Final Loaded Cars at Agra :
+--------------------------------------
+Agra Kanpur
+P1Agra4 10
+P1Agra1 5
+--------------------------------------
+--------------------------------------
+Agra Kanpur
+P1Agra2 3
+P1Agra3 2
+--------------------------------------
+Final Loaded Cars at Faridabad :
+--------------------------------------
+Faridabad Kolkata
+P1Faridabad1 2
+--------------------------------------
+Final Loaded Cars at Kolkata :
+--------------------------------------
+Kolkata Belgaum
+P1Kolkata3 8
+P1Kolkata1 4
+--------------------------------------
+--------------------------------------
+Kolkata Belgaum
+P1Kolkata2 4
+--------------------------------------
+Final Loaded Cars at Kanpur :
+Final Loaded Cars at Visakhapatnam :
+Final Loaded Cars at Jamshedpur :
+Final Loaded Cars at Rohtak :
+Final Loaded Cars at Chennai :
+--------------------------------------
+Chennai Nellore
+P1Chennai3 9
+P1Chennai1 7
+--------------------------------------
+--------------------------------------
+Chennai Nellore
+P1Chennai2 6
+--------------------------------------
+Final Loaded Cars at Ludhiana :
+Final Loaded Cars at Ambala :
+--------------------------------------
+Ambala Mangalore
+P1Ambala1 2
+--------------------------------------
+Final Loaded Cars at Bhopal :
+Final Loaded Cars at Vadodara :
+--------------------------------------
+Vadodara Faridabad
+P1Vadodara3 9
+P1Vadodara2 6
+--------------------------------------
+--------------------------------------
+Vadodara Faridabad
+P1Vadodara1 5
+--------------------------------------
+---------------------------------------------------
+Mumbai
+{'Patna': [<mmm.FreightCar object at 0x000001C31B5C9E10>]}
+ Destination : Patna 
+1
+Surat
+{}
+Pune
+{}
+Patna
+{}
+Nashik
+{}
+Nellore
+{}
+Tirupati
+{'Pune': [<mmm.FreightCar object at 0x000001C31B5C9ED0>], 'Bhopal': [<mmm.FreightCar object at 0x000001C31B5C9F90>, <mmm.FreightCar object at 0x000001C31B5CA010>]}
+ Destination : Pune 
+1
+ Destination : Bhopal 
+2
+Searching for Bfs link from Tirupati  to Bhopal
+Next Link : Kolkata
+Delhi
+{}
+Ahmedabad
+{}
+Jaipur
+{}
+Madurai
+{'Pune': [<mmm.FreightCar object at 0x000001C31B5CA0D0>]}
+ Destination : Pune 
+1
+Jammu
+{'Lucknow': [<mmm.FreightCar object at 0x000001C31B5CA190>, <mmm.FreightCar object at 0x000001C31B5CA250>]}
+ Destination : Lucknow 
+2
+Searching for Bfs link from Jammu  to Lucknow
+Next Link : Bangalore
+Belgaum
+{}
+Mangalore
+{}
+Bangalore
+{'Pune': [<mmm.FreightCar object at 0x000001C31B5CA2D0>], 'Mangalore': [<mmm.FreightCar object at 0x000001C31B5CA390>]}
+ Destination : Pune 
+1
+ Destination : Mangalore 
+1
+Hyderabad
+{}
+Lucknow
+{}
+Nagpur
+{'Ambala': [<mmm.FreightCar object at 0x000001C31B5CA450>]}
+ Destination : Ambala 
+1
+Agra
+{'Kanpur': [<mmm.FreightCar object at 0x000001C31B5CA510>, <mmm.FreightCar object at 0x000001C31B5CA5D0>]}
+ Destination : Kanpur 
+2
+Searching for Bfs link from Agra  to Kanpur
+Next Link : Bangalore
+Faridabad
+{'Kolkata': [<mmm.FreightCar object at 0x000001C31B5CA650>]}
+ Destination : Kolkata 
+1
+Kolkata
+{'Belgaum': [<mmm.FreightCar object at 0x000001C31B5CA710>, <mmm.FreightCar object at 0x000001C31B5CA7D0>]}
+ Destination : Belgaum 
+2
+Searching for Bfs link from Kolkata  to Belgaum
+Next Link : Belgaum
+Kanpur
+{}
+Visakhapatnam
+{}
+Jamshedpur
+{}
+Rohtak
+{}
+Chennai
+{'Nellore': [<mmm.FreightCar object at 0x000001C31B5CA850>, <mmm.FreightCar object at 0x000001C31B5CA910>]}
+ Destination : Nellore 
+2
+Searching for Bfs link from Chennai  to Nellore
+Next Link : Faridabad
+Ludhiana
+{}
+Ambala
+{'Mangalore': [<mmm.FreightCar object at 0x000001C31B5CA990>]}
+ Destination : Mangalore 
+1
+Bhopal
+{}
+Vadodara
+{'Faridabad': [<mmm.FreightCar object at 0x000001C31B5CAA50>, <mmm.FreightCar object at 0x000001C31B5CAB10>]}
+ Destination : Faridabad 
+2
+Searching for Bfs link from Vadodara  to Faridabad
+Next Link : Nellore
+---------------------------------------------------
+At Tirupati, outbound to Kolkata
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati1 8
+P1Tirupati3 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati2 2
+--------------------------------------
+At Jammu, outbound to Bangalore
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu1 8
+P1Jammu2 8
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu3 5
+P1Jammu4 4
+--------------------------------------
+At Agra, outbound to Bangalore
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra4 10
+P1Agra1 5
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra2 3
+P1Agra3 2
+--------------------------------------
+At Kolkata, outbound to Belgaum
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+P1Kolkata3 8
+P1Kolkata1 4
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+P1Kolkata2 4
+--------------------------------------
+At Chennai, outbound to Faridabad
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai3 9
+P1Chennai1 7
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai2 6
+--------------------------------------
+At Vadodara, outbound to Nellore
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara3 9
+P1Vadodara2 6
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara1 5
+--------------------------------------
+---------------------------------------------------
+Time tick: 1
+---------------------------------------------------
+Parcels delivered up to time tick: ['P1Kolkata1', 'P1Kolkata2', 'P1Kolkata3']
+---------------------------------------------------
+State of parcels:
+P1Jammu1
+P1Jammu2
+P1Jammu3
+P1Jammu4
+P1Bangalore1
+P1Bangalore2
+P1Mumbai1
+P1Vadodara1
+P1Vadodara2
+P1Vadodara3
+P1Tirupati1
+P1Tirupati2
+P1Faridabad1
+P1Madurai1
+P1Chennai1
+P1Chennai2
+P1Chennai3
+P1Agra1
+P1Agra2
+P1Agra3
+P1Agra4
+P1Kolkata1
+P1Kolkata2
+P1Kolkata3
+P1Ambala1
+P1Tirupati3
+P1Nagpur1
+P1Nagpur2
+P2Faridabad1
+P2Faridabad2
+P2Faridabad3
+P2Kanpur1
+P2Kanpur2
+P2Kanpur3
+P2Kanpur4
+P2Jaipur1
+P2Jaipur2
+P2Jaipur3
+P2Faridabad4
+P2Ludhiana1
+P2Ludhiana2
+P2Ludhiana3
+P2Ludhiana4
+P2Jammu1
+P2Pune1
+P2Pune2
+P2Agra1
+P2Agra2
+P2Kolkata1
+P2Kolkata2
+P2Kolkata3
+P2Surat1
+P2Surat2
+P2Surat3
+P2Nagpur1
+P3Kolkata1
+P3Mangalore1
+P3Mangalore2
+P3Hyderabad1
+P3Hyderabad2
+P3Jammu1
+P3Jammu2
+P3Bangalore1
+P3Bangalore2
+P3Bangalore3
+P3Bangalore4
+P3Ahmedabad1
+P3Jamshedpur1
+P3Jamshedpur2
+P3Jamshedpur3
+P3Vadodara1
+P3Vadodara2
+P3Vadodara3
+P3Nashik1
+P3Nashik2
+P3Nashik3
+P3Agra1
+P3Agra2
+P3Agra3
+P3Agra4
+P3Vadodara4
+P3Pune1
+P3Pune2
+P3Pune3
+P3Visakhapatnam1
+P3Visakhapatnam2
+P3Visakhapatnam3
+---------------------------------------------------
+---------------------------------------------------
+Delivered parcels: ['P1Kolkata1', 'P1Kolkata2', 'P1Kolkata3']
+Stranded parcels: ['P1Jammu1', 'P1Jammu2', 'P1Jammu3', 'P1Jammu4', 'P1Bangalore1', 'P1Bangalore2', 'P1Mumbai1', 'P1Vadodara1', 'P1Vadodara2', 'P1Vadodara3', 'P1Tirupati1', 'P1Tirupati2', 'P1Faridabad1', 'P1Madurai1', 'P1Chennai1', 'P1Chennai2', 'P1Chennai3', 'P1Agra1', 'P1Agra2', 'P1Agra3', 'P1Agra4', 'P1Ambala1', 'P1Tirupati3', 'P1Nagpur1', 'P1Nagpur2', 'P2Faridabad1', 'P2Faridabad2', 'P2Faridabad3', 'P2Kanpur1', 'P2Kanpur2', 'P2Kanpur3', 'P2Kanpur4', 'P2Jaipur1', 'P2Jaipur2', 'P2Jaipur3', 'P2Faridabad4', 'P2Ludhiana1', 'P2Ludhiana2', 'P2Ludhiana3', 'P2Ludhiana4', 'P2Jammu1', 'P2Pune1', 'P2Pune2', 'P2Agra1', 'P2Agra2', 'P2Kolkata1', 'P2Kolkata2', 'P2Kolkata3', 'P2Surat1', 'P2Surat2', 'P2Surat3', 'P2Nagpur1', 'P3Kolkata1', 'P3Mangalore1', 'P3Mangalore2', 'P3Hyderabad1', 'P3Hyderabad2', 'P3Jammu1', 'P3Jammu2', 'P3Bangalore1', 'P3Bangalore2', 'P3Bangalore3', 'P3Bangalore4', 'P3Ahmedabad1', 'P3Jamshedpur1', 'P3Jamshedpur2', 'P3Jamshedpur3', 'P3Vadodara1', 'P3Vadodara2', 'P3Vadodara3', 'P3Nashik1', 'P3Nashik2', 'P3Nashik3', 'P3Agra1', 'P3Agra2', 'P3Agra3', 'P3Agra4', 'P3Vadodara4', 'P3Pune1', 'P3Pune2', 'P3Pune3', 'P3Visakhapatnam1', 'P3Visakhapatnam2', 'P3Visakhapatnam3']
+---------------------------------------------------
+TIME TICK TIME TIME TICK : 2 ----------------------------
+---------------------------------------------------
+All parcels to be loaded at a time tick :
+P1Jammu1
+P1Jammu2
+P1Jammu3
+P1Jammu4
+P1Bangalore1
+P1Bangalore2
+P1Mumbai1
+P1Vadodara1
+P1Vadodara2
+P1Vadodara3
+P1Tirupati1
+P1Tirupati2
+P1Faridabad1
+P1Madurai1
+P1Chennai1
+P1Chennai2
+P1Chennai3
+P1Agra1
+P1Agra2
+P1Agra3
+P1Agra4
+P1Kolkata1
+P1Kolkata2
+P1Kolkata3
+P1Ambala1
+P1Tirupati1
+P1Tirupati2
+P1Tirupati3
+P1Bangalore1
+P1Nagpur1
+P1Nagpur2
+------------------------------------------------------
+P2Faridabad1
+Time Tick : 2, Parcel Origin : Faridabad 
+Parcel Loaded : P2Faridabad1
+P2Faridabad2
+Time Tick : 2, Parcel Origin : Faridabad 
+Parcel Loaded : P2Faridabad2
+P2Faridabad3
+Time Tick : 2, Parcel Origin : Faridabad 
+Parcel Loaded : P2Faridabad3
+P2Kanpur1
+Time Tick : 2, Parcel Origin : Kanpur 
+Parcel Loaded : P2Kanpur1
+P2Kanpur2
+Time Tick : 2, Parcel Origin : Kanpur 
+Parcel Loaded : P2Kanpur2
+P2Kanpur3
+Time Tick : 2, Parcel Origin : Kanpur 
+Parcel Loaded : P2Kanpur3
+P2Kanpur4
+Time Tick : 2, Parcel Origin : Kanpur 
+Parcel Loaded : P2Kanpur4
+P2Jaipur1
+Time Tick : 2, Parcel Origin : Jaipur 
+Parcel Loaded : P2Jaipur1
+P2Jaipur2
+Time Tick : 2, Parcel Origin : Jaipur 
+Parcel Loaded : P2Jaipur2
+P2Jaipur3
+Time Tick : 2, Parcel Origin : Jaipur 
+Parcel Loaded : P2Jaipur3
+P2Faridabad1
+Time Tick : 2, Parcel Origin : Faridabad 
+Parcel Loaded : P2Faridabad1
+P2Faridabad2
+Time Tick : 2, Parcel Origin : Faridabad 
+Parcel Loaded : P2Faridabad2
+P2Faridabad3
+Time Tick : 2, Parcel Origin : Faridabad 
+Parcel Loaded : P2Faridabad3
+P2Faridabad4
+Time Tick : 2, Parcel Origin : Faridabad 
+Parcel Loaded : P2Faridabad4
+P2Ludhiana1
+Time Tick : 2, Parcel Origin : Ludhiana 
+Parcel Loaded : P2Ludhiana1
+P2Ludhiana2
+Time Tick : 2, Parcel Origin : Ludhiana 
+Parcel Loaded : P2Ludhiana2
+P2Ludhiana3
+Time Tick : 2, Parcel Origin : Ludhiana 
+Parcel Loaded : P2Ludhiana3
+P2Ludhiana4
+Time Tick : 2, Parcel Origin : Ludhiana 
+Parcel Loaded : P2Ludhiana4
+P2Jammu1
+Time Tick : 2, Parcel Origin : Jammu 
+Parcel Loaded : P2Jammu1
+P2Pune1
+Time Tick : 2, Parcel Origin : Pune 
+Parcel Loaded : P2Pune1
+P2Pune2
+Time Tick : 2, Parcel Origin : Pune 
+Parcel Loaded : P2Pune2
+P2Agra1
+Time Tick : 2, Parcel Origin : Agra 
+Parcel Loaded : P2Agra1
+P2Agra2
+Time Tick : 2, Parcel Origin : Agra 
+Parcel Loaded : P2Agra2
+P2Kolkata1
+Time Tick : 2, Parcel Origin : Kolkata 
+Parcel Loaded : P2Kolkata1
+P2Kolkata2
+Time Tick : 2, Parcel Origin : Kolkata 
+Parcel Loaded : P2Kolkata2
+P2Kolkata3
+Time Tick : 2, Parcel Origin : Kolkata 
+Parcel Loaded : P2Kolkata3
+P2Surat1
+Time Tick : 2, Parcel Origin : Surat 
+Parcel Loaded : P2Surat1
+P2Surat2
+Time Tick : 2, Parcel Origin : Surat 
+Parcel Loaded : P2Surat2
+P2Surat3
+Time Tick : 2, Parcel Origin : Surat 
+Parcel Loaded : P2Surat3
+P2Nagpur1
+Time Tick : 2, Parcel Origin : Nagpur 
+Parcel Loaded : P2Nagpur1
+---------------------------------------------------
+Final Loaded Parcels at Mumbai : 
+P1Mumbai1
+Final Loaded Parcels at Surat : 
+P2Surat1
+P2Surat2
+P2Surat3
+Final Loaded Parcels at Pune : 
+P2Pune1
+P2Pune2
+Final Loaded Parcels at Patna : 
+Final Loaded Parcels at Nashik : 
+Final Loaded Parcels at Nellore : 
+Final Loaded Parcels at Tirupati : 
+P1Tirupati1
+P1Tirupati2
+P1Tirupati1
+P1Tirupati2
+P1Tirupati3
+Final Loaded Parcels at Delhi : 
+Final Loaded Parcels at Ahmedabad : 
+Final Loaded Parcels at Jaipur : 
+P2Jaipur1
+P2Jaipur2
+P2Jaipur3
+Final Loaded Parcels at Madurai : 
+P1Madurai1
+Final Loaded Parcels at Jammu : 
+P1Jammu1
+P1Jammu2
+P1Jammu3
+P1Jammu4
+P2Jammu1
+Final Loaded Parcels at Belgaum : 
+Final Loaded Parcels at Mangalore : 
+Final Loaded Parcels at Bangalore : 
+P1Bangalore1
+P1Bangalore2
+P1Bangalore1
+Final Loaded Parcels at Hyderabad : 
+Final Loaded Parcels at Lucknow : 
+Final Loaded Parcels at Nagpur : 
+P1Nagpur1
+P1Nagpur2
+P2Nagpur1
+Final Loaded Parcels at Agra : 
+P1Agra1
+P1Agra2
+P1Agra3
+P1Agra4
+P2Agra1
+P2Agra2
+Final Loaded Parcels at Faridabad : 
+P1Faridabad1
+P2Faridabad1
+P2Faridabad2
+P2Faridabad3
+P2Faridabad1
+P2Faridabad2
+P2Faridabad3
+P2Faridabad4
+Final Loaded Parcels at Kolkata : 
+P1Kolkata1
+P1Kolkata2
+P1Kolkata3
+P2Kolkata1
+P2Kolkata2
+P2Kolkata3
+Final Loaded Parcels at Kanpur : 
+P2Kanpur1
+P2Kanpur2
+P2Kanpur3
+P2Kanpur4
+Final Loaded Parcels at Visakhapatnam : 
+Final Loaded Parcels at Jamshedpur : 
+Final Loaded Parcels at Rohtak : 
+Final Loaded Parcels at Chennai : 
+P1Chennai1
+P1Chennai2
+P1Chennai3
+Final Loaded Parcels at Ludhiana : 
+P2Ludhiana1
+P2Ludhiana2
+P2Ludhiana3
+P2Ludhiana4
+Final Loaded Parcels at Ambala : 
+P1Ambala1
+Final Loaded Parcels at Bhopal : 
+Final Loaded Parcels at Vadodara : 
+P1Vadodara1
+P1Vadodara2
+P1Vadodara3
+---------------------------------------------------
+Parcels in heap for Patna at Mumbai:
+Parcels in heap for Belgaum at Surat:
+P2Surat2
+P2Surat1
+P2Surat3
+Parcels in heap for Delhi at Pune:
+P2Pune1
+P2Pune2
+Parcels in heap for Pune at Tirupati:
+Parcels in heap for Bhopal at Tirupati:
+Parcels in heap for Nagpur at Jaipur:
+P2Jaipur2
+P2Jaipur1
+P2Jaipur3
+Parcels in heap for Pune at Madurai:
+Parcels in heap for Lucknow at Jammu:
+Parcels in heap for Rohtak at Jammu:
+P2Jammu1
+Parcels in heap for Pune at Bangalore:
+Parcels in heap for Mangalore at Bangalore:
+Parcels in heap for Ambala at Nagpur:
+Parcels in heap for Mangalore at Nagpur:
+P2Nagpur1
+Parcels in heap for Kanpur at Agra:
+Parcels in heap for Bangalore at Agra:
+P2Agra2
+P2Agra1
+Parcels in heap for Kolkata at Faridabad:
+Parcels in heap for Ambala at Faridabad:
+P2Faridabad3
+P2Faridabad1
+P2Faridabad2
+Parcels in heap for Kanpur at Faridabad:
+P2Faridabad1
+P2Faridabad2
+P2Faridabad3
+P2Faridabad4
+Parcels in heap for Belgaum at Kolkata:
+Parcels in heap for Visakhapatnam at Kolkata:
+P2Kolkata3
+P2Kolkata2
+P2Kolkata1
+Parcels in heap for Ambala at Kanpur:
+P2Kanpur3
+P2Kanpur4
+P2Kanpur2
+P2Kanpur1
+Parcels in heap for Nellore at Chennai:
+Parcels in heap for Jaipur at Ludhiana:
+P2Ludhiana1
+P2Ludhiana2
+P2Ludhiana3
+P2Ludhiana4
+Parcels in heap for Mangalore at Ambala:
+Parcels in heap for Faridabad at Vadodara:
+---------------------------------------------------
+---------------------------------------------------
+Final Loaded Cars at Mumbai :
+--------------------------------------
+Mumbai Patna
+P1Mumbai1 5
+--------------------------------------
+Final Loaded Cars at Surat :
+--------------------------------------
+Surat Belgaum
+P2Surat2 8
+P2Surat3 8
+--------------------------------------
+--------------------------------------
+Surat Belgaum
+P2Surat1 3
+--------------------------------------
+Final Loaded Cars at Pune :
+--------------------------------------
+Pune Delhi
+P2Pune1 2
+P2Pune2 2
+--------------------------------------
+Final Loaded Cars at Patna :
+Final Loaded Cars at Nashik :
+Final Loaded Cars at Nellore :
+Final Loaded Cars at Tirupati :
+--------------------------------------
+Tirupati Pune
+P1Tirupati1 3
+P1Tirupati2 3
+--------------------------------------
+--------------------------------------
+Tirupati Bhopal
+P1Tirupati1 8
+P1Tirupati3 2
+--------------------------------------
+--------------------------------------
+Tirupati Bhopal
+P1Tirupati2 2
+--------------------------------------
+Final Loaded Cars at Delhi :
+Final Loaded Cars at Ahmedabad :
+Final Loaded Cars at Jaipur :
+--------------------------------------
+Jaipur Nagpur
+P2Jaipur2 7
+P2Jaipur3 7
+--------------------------------------
+--------------------------------------
+Jaipur Nagpur
+P2Jaipur1 1
+--------------------------------------
+Final Loaded Cars at Madurai :
+--------------------------------------
+Madurai Pune
+P1Madurai1 9
+--------------------------------------
+Final Loaded Cars at Jammu :
+--------------------------------------
+Jammu Lucknow
+P1Jammu1 8
+P1Jammu2 8
+--------------------------------------
+--------------------------------------
+Jammu Lucknow
+P1Jammu3 5
+P1Jammu4 4
+--------------------------------------
+--------------------------------------
+Jammu Rohtak
+P2Jammu1 2
+--------------------------------------
+Final Loaded Cars at Belgaum :
+Final Loaded Cars at Mangalore :
+Final Loaded Cars at Bangalore :
+--------------------------------------
+Bangalore Pune
+P1Bangalore2 6
+P1Bangalore1 3
+--------------------------------------
+--------------------------------------
+Bangalore Mangalore
+P1Bangalore1 3
+--------------------------------------
+Final Loaded Cars at Hyderabad :
+Final Loaded Cars at Lucknow :
+Final Loaded Cars at Nagpur :
+--------------------------------------
+Nagpur Ambala
+P1Nagpur2 5
+P1Nagpur1 1
+--------------------------------------
+--------------------------------------
+Nagpur Mangalore
+P2Nagpur1 1
+--------------------------------------
+Final Loaded Cars at Agra :
+--------------------------------------
+Agra Kanpur
+P1Agra4 10
+P1Agra1 5
+--------------------------------------
+--------------------------------------
+Agra Kanpur
+P1Agra2 3
+P1Agra3 2
+--------------------------------------
+--------------------------------------
+Agra Bangalore
+P2Agra2 3
+P2Agra1 1
+--------------------------------------
+Final Loaded Cars at Faridabad :
+--------------------------------------
+Faridabad Kolkata
+P1Faridabad1 2
+--------------------------------------
+--------------------------------------
+Faridabad Ambala
+P2Faridabad3 9
+P2Faridabad2 7
+--------------------------------------
+--------------------------------------
+Faridabad Ambala
+P2Faridabad1 4
+--------------------------------------
+--------------------------------------
+Faridabad Kanpur
+P2Faridabad1 10
+P2Faridabad2 9
+--------------------------------------
+--------------------------------------
+Faridabad Kanpur
+P2Faridabad3 7
+P2Faridabad4 3
+--------------------------------------
+Final Loaded Cars at Kolkata :
+--------------------------------------
+Kolkata Belgaum
+--------------------------------------
+--------------------------------------
+Kolkata Belgaum
+--------------------------------------
+--------------------------------------
+Kolkata Visakhapatnam
+P2Kolkata3 5
+P2Kolkata1 4
+--------------------------------------
+--------------------------------------
+Kolkata Visakhapatnam
+P2Kolkata2 2
+--------------------------------------
+Final Loaded Cars at Kanpur :
+--------------------------------------
+Kanpur Ambala
+P2Kanpur3 8
+P2Kanpur4 6
+--------------------------------------
+--------------------------------------
+Kanpur Ambala
+P2Kanpur2 6
+P2Kanpur1 2
+--------------------------------------
+Final Loaded Cars at Visakhapatnam :
+Final Loaded Cars at Jamshedpur :
+Final Loaded Cars at Rohtak :
+Final Loaded Cars at Chennai :
+--------------------------------------
+Chennai Nellore
+P1Chennai3 9
+P1Chennai1 7
+--------------------------------------
+--------------------------------------
+Chennai Nellore
+P1Chennai2 6
+--------------------------------------
+Final Loaded Cars at Ludhiana :
+--------------------------------------
+Ludhiana Jaipur
+P2Ludhiana1 9
+P2Ludhiana4 5
+--------------------------------------
+--------------------------------------
+Ludhiana Jaipur
+P2Ludhiana3 5
+P2Ludhiana2 5
+--------------------------------------
+Final Loaded Cars at Ambala :
+--------------------------------------
+Ambala Mangalore
+P1Ambala1 2
+--------------------------------------
+Final Loaded Cars at Bhopal :
+Final Loaded Cars at Vadodara :
+--------------------------------------
+Vadodara Faridabad
+P1Vadodara3 9
+P1Vadodara2 6
+--------------------------------------
+--------------------------------------
+Vadodara Faridabad
+P1Vadodara1 5
+--------------------------------------
+---------------------------------------------------
+Mumbai
+{'Patna': [<mmm.FreightCar object at 0x000001C31B5C9E10>, <mmm.FreightCar object at 0x000001C31B5C9E10>]}
+ Destination : Patna 
+2
+Searching for Bfs link from Mumbai  to Patna
+Next Link : Patna
+Surat
+{'Belgaum': [<mmm.FreightCar object at 0x000001C31B5CC050>, <mmm.FreightCar object at 0x000001C31B5CC090>]}
+ Destination : Belgaum 
+2
+Searching for Bfs link from Surat  to Belgaum
+Next Link : Delhi
+Pune
+{'Delhi': [<mmm.FreightCar object at 0x000001C31B5CC0D0>]}
+ Destination : Delhi 
+1
+Patna
+{}
+Nashik
+{}
+Nellore
+{}
+Tirupati
+{'Pune': [<mmm.FreightCar object at 0x000001C31B5C9ED0>, <mmm.FreightCar object at 0x000001C31B5C9ED0>], 'Bhopal': [<mmm.FreightCar object at 0x000001C31B5C9F90>, <mmm.FreightCar object at 0x000001C31B5CA010>, <mmm.FreightCar object at 0x000001C31B5C9F90>, <mmm.FreightCar object at 0x000001C31B5CA010>]}
+ Destination : Pune 
+2
+Searching for Bfs link from Tirupati  to Pune
+Next Link : Mumbai
+ Destination : Bhopal 
+4
+Searching for Bfs link from Tirupati  to Bhopal
+Next Link : Kolkata
+Delhi
+{}
+Ahmedabad
+{}
+Jaipur
+{'Nagpur': [<mmm.FreightCar object at 0x000001C31B5CC110>, <mmm.FreightCar object at 0x000001C31B5CC150>]}
+ Destination : Nagpur 
+2
+Searching for Bfs link from Jaipur  to Nagpur
+Next Link : Jamshedpur
+Madurai
+{'Pune': [<mmm.FreightCar object at 0x000001C31B5CA0D0>, <mmm.FreightCar object at 0x000001C31B5CA0D0>]}
+ Destination : Pune 
+2
+Searching for Bfs link from Madurai  to Pune
+Next Link : Delhi
+Jammu
+{'Lucknow': [<mmm.FreightCar object at 0x000001C31B5CA190>, <mmm.FreightCar object at 0x000001C31B5CA250>, <mmm.FreightCar object at 0x000001C31B5CA190>, <mmm.FreightCar object at 0x000001C31B5CA250>], 'Rohtak': [<mmm.FreightCar object at 0x000001C31B5CC190>]}
+ Destination : Lucknow 
+4
+Searching for Bfs link from Jammu  to Lucknow
+Next Link : Bangalore
+ Destination : Rohtak 
+1
+Belgaum
+{}
+Mangalore
+{}
+Bangalore
+{'Pune': [<mmm.FreightCar object at 0x000001C31B5CA2D0>, <mmm.FreightCar object at 0x000001C31B5CA2D0>], 'Mangalore': [<mmm.FreightCar object at 0x000001C31B5CA390>, <mmm.FreightCar object at 0x000001C31B5CA390>]}
+ Destination : Pune 
+2
+Searching for Bfs link from Bangalore  to Pune
+Next Link : Pune
+ Destination : Mangalore 
+2
+Searching for Bfs link from Bangalore  to Mangalore
+Next Link : Mangalore
+Hyderabad
+{}
+Lucknow
+{}
+Nagpur
+{'Ambala': [<mmm.FreightCar object at 0x000001C31B5CA450>, <mmm.FreightCar object at 0x000001C31B5CA450>], 'Mangalore': [<mmm.FreightCar object at 0x000001C31B5CC1D0>]}
+ Destination : Ambala 
+2
+Searching for Bfs link from Nagpur  to Ambala
+Next Link : Jammu
+ Destination : Mangalore 
+1
+Agra
+{'Kanpur': [<mmm.FreightCar object at 0x000001C31B5CA510>, <mmm.FreightCar object at 0x000001C31B5CA5D0>, <mmm.FreightCar object at 0x000001C31B5CA510>, <mmm.FreightCar object at 0x000001C31B5CA5D0>], 'Bangalore': [<mmm.FreightCar object at 0x000001C31B5CC210>]}
+ Destination : Kanpur 
+4
+Searching for Bfs link from Agra  to Kanpur
+Next Link : Bangalore
+ Destination : Bangalore 
+1
+Faridabad
+{'Kolkata': [<mmm.FreightCar object at 0x000001C31B5CA650>, <mmm.FreightCar object at 0x000001C31B5CA650>], 'Ambala': [<mmm.FreightCar object at 0x000001C31B5CC250>, <mmm.FreightCar object at 0x000001C31B5CC290>], 'Kanpur': [<mmm.FreightCar object at 0x000001C31B5CC2D0>, <mmm.FreightCar object at 0x000001C31B5CC310>]}
+ Destination : Kolkata 
+2
+Searching for Bfs link from Faridabad  to Kolkata
+Next Link : Pune
+ Destination : Ambala 
+2
+Searching for Bfs link from Faridabad  to Ambala
+Next Link : Ambala
+ Destination : Kanpur 
+2
+Searching for Bfs link from Faridabad  to Kanpur
+Next Link : Pune
+Kolkata
+{'Belgaum': [<mmm.FreightCar object at 0x000001C31B5CA710>, <mmm.FreightCar object at 0x000001C31B5CA7D0>, <mmm.FreightCar object at 0x000001C31B5CA710>, <mmm.FreightCar object at 0x000001C31B5CA7D0>], 'Visakhapatnam': [<mmm.FreightCar object at 0x000001C31B5CC390>, <mmm.FreightCar object at 0x000001C31B5CC3D0>]}
+ Destination : Belgaum 
+4
+Searching for Bfs link from Kolkata  to Belgaum
+Next Link : Belgaum
+ Destination : Visakhapatnam 
+2
+Searching for Bfs link from Kolkata  to Visakhapatnam
+Next Link : Visakhapatnam
+Kanpur
+{'Ambala': [<mmm.FreightCar object at 0x000001C31B5CC410>, <mmm.FreightCar object at 0x000001C31B5CC450>]}
+ Destination : Ambala 
+2
+Searching for Bfs link from Kanpur  to Ambala
+Next Link : Kolkata
+Visakhapatnam
+{}
+Jamshedpur
+{}
+Rohtak
+{}
+Chennai
+{'Nellore': [<mmm.FreightCar object at 0x000001C31B5CA850>, <mmm.FreightCar object at 0x000001C31B5CA910>, <mmm.FreightCar object at 0x000001C31B5CA850>, <mmm.FreightCar object at 0x000001C31B5CA910>]}
+ Destination : Nellore 
+4
+Searching for Bfs link from Chennai  to Nellore
+Next Link : Faridabad
+Ludhiana
+{'Jaipur': [<mmm.FreightCar object at 0x000001C31B5CC510>, <mmm.FreightCar object at 0x000001C31B5CC550>]}
+ Destination : Jaipur 
+2
+Searching for Bfs link from Ludhiana  to Jaipur
+Next Link : Patna
+Ambala
+{'Mangalore': [<mmm.FreightCar object at 0x000001C31B5CA990>, <mmm.FreightCar object at 0x000001C31B5CA990>]}
+ Destination : Mangalore 
+2
+Searching for Bfs link from Ambala  to Mangalore
+Next Link : Chennai
+Bhopal
+{}
+Vadodara
+{'Faridabad': [<mmm.FreightCar object at 0x000001C31B5CAA50>, <mmm.FreightCar object at 0x000001C31B5CAB10>, <mmm.FreightCar object at 0x000001C31B5CAA50>, <mmm.FreightCar object at 0x000001C31B5CAB10>]}
+ Destination : Faridabad 
+4
+Searching for Bfs link from Vadodara  to Faridabad
+Next Link : Nellore
+---------------------------------------------------
+At Mumbai, outbound to Patna
+--------------------------------------
+Origin :  Mumbai Destination Patna
+P1Mumbai1 5
+--------------------------------------
+--------------------------------------
+Origin :  Mumbai Destination Patna
+P1Mumbai1 5
+--------------------------------------
+At Surat, outbound to Delhi
+--------------------------------------
+Origin :  Surat Destination Belgaum
+P2Surat2 8
+P2Surat3 8
+--------------------------------------
+--------------------------------------
+Origin :  Surat Destination Belgaum
+P2Surat1 3
+--------------------------------------
+At Tirupati, outbound to Kolkata
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati1 8
+P1Tirupati3 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati2 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati1 8
+P1Tirupati3 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati2 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati1 8
+P1Tirupati3 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati2 2
+--------------------------------------
+At Tirupati, outbound to Mumbai
+--------------------------------------
+Origin :  Tirupati Destination Pune
+P1Tirupati1 3
+P1Tirupati2 3
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Pune
+P1Tirupati1 3
+P1Tirupati2 3
+--------------------------------------
+At Jaipur, outbound to Jamshedpur
+--------------------------------------
+Origin :  Jaipur Destination Nagpur
+P2Jaipur2 7
+P2Jaipur3 7
+--------------------------------------
+--------------------------------------
+Origin :  Jaipur Destination Nagpur
+P2Jaipur1 1
+--------------------------------------
+At Madurai, outbound to Delhi
+--------------------------------------
+Origin :  Madurai Destination Pune
+P1Madurai1 9
+--------------------------------------
+--------------------------------------
+Origin :  Madurai Destination Pune
+P1Madurai1 9
+--------------------------------------
+At Jammu, outbound to Bangalore
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu1 8
+P1Jammu2 8
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu3 5
+P1Jammu4 4
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu1 8
+P1Jammu2 8
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu3 5
+P1Jammu4 4
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu1 8
+P1Jammu2 8
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu3 5
+P1Jammu4 4
+--------------------------------------
+At Bangalore, outbound to Pune
+--------------------------------------
+Origin :  Bangalore Destination Pune
+P1Bangalore2 6
+P1Bangalore1 3
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Pune
+P1Bangalore2 6
+P1Bangalore1 3
+--------------------------------------
+At Bangalore, outbound to Mangalore
+--------------------------------------
+Origin :  Bangalore Destination Mangalore
+P1Bangalore1 3
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Mangalore
+P1Bangalore1 3
+--------------------------------------
+At Nagpur, outbound to Jammu
+--------------------------------------
+Origin :  Nagpur Destination Ambala
+P1Nagpur2 5
+P1Nagpur1 1
+--------------------------------------
+--------------------------------------
+Origin :  Nagpur Destination Ambala
+P1Nagpur2 5
+P1Nagpur1 1
+--------------------------------------
+At Agra, outbound to Bangalore
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra4 10
+P1Agra1 5
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra2 3
+P1Agra3 2
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra4 10
+P1Agra1 5
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra2 3
+P1Agra3 2
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra4 10
+P1Agra1 5
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra2 3
+P1Agra3 2
+--------------------------------------
+At Faridabad, outbound to Pune
+--------------------------------------
+Origin :  Faridabad Destination Kolkata
+P1Faridabad1 2
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kolkata
+P1Faridabad1 2
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kanpur
+P2Faridabad1 10
+P2Faridabad2 9
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kanpur
+P2Faridabad3 7
+P2Faridabad4 3
+--------------------------------------
+At Faridabad, outbound to Ambala
+--------------------------------------
+Origin :  Faridabad Destination Ambala
+P2Faridabad3 9
+P2Faridabad2 7
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Ambala
+P2Faridabad1 4
+--------------------------------------
+At Kolkata, outbound to Belgaum
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+At Kolkata, outbound to Visakhapatnam
+--------------------------------------
+Origin :  Kolkata Destination Visakhapatnam
+P2Kolkata3 5
+P2Kolkata1 4
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Visakhapatnam
+P2Kolkata2 2
+--------------------------------------
+At Kanpur, outbound to Kolkata
+--------------------------------------
+Origin :  Kanpur Destination Ambala
+P2Kanpur3 8
+P2Kanpur4 6
+--------------------------------------
+--------------------------------------
+Origin :  Kanpur Destination Ambala
+P2Kanpur2 6
+P2Kanpur1 2
+--------------------------------------
+At Chennai, outbound to Faridabad
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai3 9
+P1Chennai1 7
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai2 6
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai3 9
+P1Chennai1 7
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai2 6
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai3 9
+P1Chennai1 7
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai2 6
+--------------------------------------
+At Ludhiana, outbound to Patna
+--------------------------------------
+Origin :  Ludhiana Destination Jaipur
+P2Ludhiana1 9
+P2Ludhiana4 5
+--------------------------------------
+--------------------------------------
+Origin :  Ludhiana Destination Jaipur
+P2Ludhiana3 5
+P2Ludhiana2 5
+--------------------------------------
+At Ambala, outbound to Chennai
+--------------------------------------
+Origin :  Ambala Destination Mangalore
+P1Ambala1 2
+--------------------------------------
+--------------------------------------
+Origin :  Ambala Destination Mangalore
+P1Ambala1 2
+--------------------------------------
+At Vadodara, outbound to Nellore
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara3 9
+P1Vadodara2 6
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara1 5
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara3 9
+P1Vadodara2 6
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara1 5
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara3 9
+P1Vadodara2 6
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara1 5
+--------------------------------------
+---------------------------------------------------
+Time tick: 2
+---------------------------------------------------
+Parcels delivered up to time tick: ['P1Bangalore1', 'P1Bangalore2', 'P1Mumbai1', 'P1Kolkata1', 'P1Kolkata2', 'P1Kolkata3', 'P2Kolkata1', 'P2Kolkata2', 'P2Kolkata3']
+---------------------------------------------------
+State of parcels:
+P1Jammu1
+P1Jammu2
+P1Jammu3
+P1Jammu4
+P1Bangalore1
+P1Bangalore2
+P1Mumbai1
+P1Vadodara1
+P1Vadodara2
+P1Vadodara3
+P1Tirupati1
+P1Tirupati2
+P1Faridabad1
+P1Madurai1
+P1Chennai1
+P1Chennai2
+P1Chennai3
+P1Agra1
+P1Agra2
+P1Agra3
+P1Agra4
+P1Kolkata1
+P1Kolkata2
+P1Kolkata3
+P1Ambala1
+P1Tirupati3
+P1Nagpur1
+P1Nagpur2
+P2Faridabad1
+P2Faridabad2
+P2Faridabad3
+P2Kanpur1
+P2Kanpur2
+P2Kanpur3
+P2Kanpur4
+P2Jaipur1
+P2Jaipur2
+P2Jaipur3
+P2Faridabad4
+P2Ludhiana1
+P2Ludhiana2
+P2Ludhiana3
+P2Ludhiana4
+P2Jammu1
+P2Pune1
+P2Pune2
+P2Agra1
+P2Agra2
+P2Kolkata1
+P2Kolkata2
+P2Kolkata3
+P2Surat1
+P2Surat2
+P2Surat3
+P2Nagpur1
+P3Kolkata1
+P3Mangalore1
+P3Mangalore2
+P3Hyderabad1
+P3Hyderabad2
+P3Jammu1
+P3Jammu2
+P3Bangalore1
+P3Bangalore2
+P3Bangalore3
+P3Bangalore4
+P3Ahmedabad1
+P3Jamshedpur1
+P3Jamshedpur2
+P3Jamshedpur3
+P3Vadodara1
+P3Vadodara2
+P3Vadodara3
+P3Nashik1
+P3Nashik2
+P3Nashik3
+P3Agra1
+P3Agra2
+P3Agra3
+P3Agra4
+P3Vadodara4
+P3Pune1
+P3Pune2
+P3Pune3
+P3Visakhapatnam1
+P3Visakhapatnam2
+P3Visakhapatnam3
+---------------------------------------------------
+---------------------------------------------------
+Delivered parcels: ['P1Bangalore1', 'P1Bangalore2', 'P1Mumbai1', 'P1Kolkata1', 'P1Kolkata2', 'P1Kolkata3', 'P2Kolkata1', 'P2Kolkata2', 'P2Kolkata3']
+Stranded parcels: ['P1Jammu1', 'P1Jammu2', 'P1Jammu3', 'P1Jammu4', 'P1Vadodara1', 'P1Vadodara2', 'P1Vadodara3', 'P1Tirupati1', 'P1Tirupati2', 'P1Faridabad1', 'P1Madurai1', 'P1Chennai1', 'P1Chennai2', 'P1Chennai3', 'P1Agra1', 'P1Agra2', 'P1Agra3', 'P1Agra4', 'P1Ambala1', 'P1Tirupati3', 'P1Nagpur1', 'P1Nagpur2', 'P2Faridabad1', 'P2Faridabad2', 'P2Faridabad3', 'P2Kanpur1', 'P2Kanpur2', 'P2Kanpur3', 'P2Kanpur4', 'P2Jaipur1', 'P2Jaipur2', 'P2Jaipur3', 'P2Faridabad4', 'P2Ludhiana1', 'P2Ludhiana2', 'P2Ludhiana3', 'P2Ludhiana4', 'P2Jammu1', 'P2Pune1', 'P2Pune2', 'P2Agra1', 'P2Agra2', 'P2Surat1', 'P2Surat2', 'P2Surat3', 'P2Nagpur1', 'P3Kolkata1', 'P3Mangalore1', 'P3Mangalore2', 'P3Hyderabad1', 'P3Hyderabad2', 'P3Jammu1', 'P3Jammu2', 'P3Bangalore1', 'P3Bangalore2', 'P3Bangalore3', 'P3Bangalore4', 'P3Ahmedabad1', 'P3Jamshedpur1', 'P3Jamshedpur2', 'P3Jamshedpur3', 'P3Vadodara1', 'P3Vadodara2', 'P3Vadodara3', 'P3Nashik1', 'P3Nashik2', 'P3Nashik3', 'P3Agra1', 'P3Agra2', 'P3Agra3', 'P3Agra4', 'P3Vadodara4', 'P3Pune1', 'P3Pune2', 'P3Pune3', 'P3Visakhapatnam1', 'P3Visakhapatnam2', 'P3Visakhapatnam3']
+---------------------------------------------------
+TIME TICK TIME TIME TICK : 3 ----------------------------
+---------------------------------------------------
+All parcels to be loaded at a time tick :
+P1Jammu1
+P1Jammu2
+P1Jammu3
+P1Jammu4
+P1Bangalore1
+P1Bangalore2
+P1Mumbai1
+P1Vadodara1
+P1Vadodara2
+P1Vadodara3
+P1Tirupati1
+P1Tirupati2
+P1Faridabad1
+P1Madurai1
+P1Chennai1
+P1Chennai2
+P1Chennai3
+P1Agra1
+P1Agra2
+P1Agra3
+P1Agra4
+P1Kolkata1
+P1Kolkata2
+P1Kolkata3
+P1Ambala1
+P1Tirupati1
+P1Tirupati2
+P1Tirupati3
+P1Bangalore1
+P1Nagpur1
+P1Nagpur2
+------------------------------------------------------
+P3Kolkata1
+Time Tick : 3, Parcel Origin : Kolkata 
+Parcel Loaded : P3Kolkata1
+P3Mangalore1
+Time Tick : 3, Parcel Origin : Mangalore 
+Parcel Loaded : P3Mangalore1
+P3Mangalore2
+Time Tick : 3, Parcel Origin : Mangalore 
+Parcel Loaded : P3Mangalore2
+P3Hyderabad1
+Time Tick : 3, Parcel Origin : Hyderabad 
+Parcel Loaded : P3Hyderabad1
+P3Hyderabad2
+Time Tick : 3, Parcel Origin : Hyderabad 
+Parcel Loaded : P3Hyderabad2
+P3Jammu1
+Time Tick : 3, Parcel Origin : Jammu 
+Parcel Loaded : P3Jammu1
+P3Jammu2
+Time Tick : 3, Parcel Origin : Jammu 
+Parcel Loaded : P3Jammu2
+P3Bangalore1
+Time Tick : 3, Parcel Origin : Bangalore 
+Parcel Loaded : P3Bangalore1
+P3Bangalore2
+Time Tick : 3, Parcel Origin : Bangalore 
+Parcel Loaded : P3Bangalore2
+P3Bangalore3
+Time Tick : 3, Parcel Origin : Bangalore 
+Parcel Loaded : P3Bangalore3
+P3Bangalore4
+Time Tick : 3, Parcel Origin : Bangalore 
+Parcel Loaded : P3Bangalore4
+P3Ahmedabad1
+Time Tick : 3, Parcel Origin : Ahmedabad 
+Parcel Loaded : P3Ahmedabad1
+P3Jamshedpur1
+Time Tick : 3, Parcel Origin : Jamshedpur 
+Parcel Loaded : P3Jamshedpur1
+P3Jamshedpur2
+Time Tick : 3, Parcel Origin : Jamshedpur 
+Parcel Loaded : P3Jamshedpur2
+P3Jamshedpur3
+Time Tick : 3, Parcel Origin : Jamshedpur 
+Parcel Loaded : P3Jamshedpur3
+P3Mangalore1
+Time Tick : 3, Parcel Origin : Mangalore 
+Parcel Loaded : P3Mangalore1
+P3Vadodara1
+Time Tick : 3, Parcel Origin : Vadodara 
+Parcel Loaded : P3Vadodara1
+P3Vadodara2
+Time Tick : 3, Parcel Origin : Vadodara 
+Parcel Loaded : P3Vadodara2
+P3Vadodara3
+Time Tick : 3, Parcel Origin : Vadodara 
+Parcel Loaded : P3Vadodara3
+P3Nashik1
+Time Tick : 3, Parcel Origin : Nashik 
+Parcel Loaded : P3Nashik1
+P3Nashik2
+Time Tick : 3, Parcel Origin : Nashik 
+Parcel Loaded : P3Nashik2
+P3Nashik3
+Time Tick : 3, Parcel Origin : Nashik 
+Parcel Loaded : P3Nashik3
+P3Agra1
+Time Tick : 3, Parcel Origin : Agra 
+Parcel Loaded : P3Agra1
+P3Agra2
+Time Tick : 3, Parcel Origin : Agra 
+Parcel Loaded : P3Agra2
+P3Agra3
+Time Tick : 3, Parcel Origin : Agra 
+Parcel Loaded : P3Agra3
+P3Agra4
+Time Tick : 3, Parcel Origin : Agra 
+Parcel Loaded : P3Agra4
+P3Vadodara1
+Time Tick : 3, Parcel Origin : Vadodara 
+Parcel Loaded : P3Vadodara1
+P3Vadodara2
+Time Tick : 3, Parcel Origin : Vadodara 
+Parcel Loaded : P3Vadodara2
+P3Vadodara3
+Time Tick : 3, Parcel Origin : Vadodara 
+Parcel Loaded : P3Vadodara3
+P3Vadodara4
+Time Tick : 3, Parcel Origin : Vadodara 
+Parcel Loaded : P3Vadodara4
+P3Pune1
+Time Tick : 3, Parcel Origin : Pune 
+Parcel Loaded : P3Pune1
+P3Pune2
+Time Tick : 3, Parcel Origin : Pune 
+Parcel Loaded : P3Pune2
+P3Pune3
+Time Tick : 3, Parcel Origin : Pune 
+Parcel Loaded : P3Pune3
+P3Visakhapatnam1
+Time Tick : 3, Parcel Origin : Visakhapatnam 
+Parcel Loaded : P3Visakhapatnam1
+P3Visakhapatnam2
+Time Tick : 3, Parcel Origin : Visakhapatnam 
+Parcel Loaded : P3Visakhapatnam2
+P3Visakhapatnam3
+Time Tick : 3, Parcel Origin : Visakhapatnam 
+Parcel Loaded : P3Visakhapatnam3
+---------------------------------------------------
+Final Loaded Parcels at Mumbai : 
+P1Mumbai1
+Final Loaded Parcels at Surat : 
+P2Surat1
+P2Surat2
+P2Surat3
+Final Loaded Parcels at Pune : 
+P2Pune1
+P2Pune2
+P3Pune1
+P3Pune2
+P3Pune3
+Final Loaded Parcels at Patna : 
+Final Loaded Parcels at Nashik : 
+P3Nashik1
+P3Nashik2
+P3Nashik3
+Final Loaded Parcels at Nellore : 
+Final Loaded Parcels at Tirupati : 
+P1Tirupati1
+P1Tirupati2
+P1Tirupati1
+P1Tirupati2
+P1Tirupati3
+Final Loaded Parcels at Delhi : 
+Final Loaded Parcels at Ahmedabad : 
+P3Ahmedabad1
+Final Loaded Parcels at Jaipur : 
+P2Jaipur1
+P2Jaipur2
+P2Jaipur3
+Final Loaded Parcels at Madurai : 
+P1Madurai1
+Final Loaded Parcels at Jammu : 
+P1Jammu1
+P1Jammu2
+P1Jammu3
+P1Jammu4
+P2Jammu1
+P3Jammu1
+P3Jammu2
+Final Loaded Parcels at Belgaum : 
+Final Loaded Parcels at Mangalore : 
+P3Mangalore1
+P3Mangalore2
+P3Mangalore1
+Final Loaded Parcels at Bangalore : 
+P1Bangalore1
+P1Bangalore2
+P1Bangalore1
+P3Bangalore1
+P3Bangalore2
+P3Bangalore3
+P3Bangalore4
+Final Loaded Parcels at Hyderabad : 
+P3Hyderabad1
+P3Hyderabad2
+Final Loaded Parcels at Lucknow : 
+Final Loaded Parcels at Nagpur : 
+P1Nagpur1
+P1Nagpur2
+P2Nagpur1
+Final Loaded Parcels at Agra : 
+P1Agra1
+P1Agra2
+P1Agra3
+P1Agra4
+P2Agra1
+P2Agra2
+P3Agra1
+P3Agra2
+P3Agra3
+P3Agra4
+Final Loaded Parcels at Faridabad : 
+P1Faridabad1
+P2Faridabad1
+P2Faridabad2
+P2Faridabad3
+P2Faridabad1
+P2Faridabad2
+P2Faridabad3
+P2Faridabad4
+Final Loaded Parcels at Kolkata : 
+P1Kolkata1
+P1Kolkata2
+P1Kolkata3
+P2Kolkata1
+P2Kolkata2
+P2Kolkata3
+P3Kolkata1
+Final Loaded Parcels at Kanpur : 
+P2Kanpur1
+P2Kanpur2
+P2Kanpur3
+P2Kanpur4
+Final Loaded Parcels at Visakhapatnam : 
+P3Visakhapatnam1
+P3Visakhapatnam2
+P3Visakhapatnam3
+Final Loaded Parcels at Jamshedpur : 
+P3Jamshedpur1
+P3Jamshedpur2
+P3Jamshedpur3
+Final Loaded Parcels at Rohtak : 
+Final Loaded Parcels at Chennai : 
+P1Chennai1
+P1Chennai2
+P1Chennai3
+Final Loaded Parcels at Ludhiana : 
+P2Ludhiana1
+P2Ludhiana2
+P2Ludhiana3
+P2Ludhiana4
+Final Loaded Parcels at Ambala : 
+P1Ambala1
+Final Loaded Parcels at Bhopal : 
+Final Loaded Parcels at Vadodara : 
+P1Vadodara1
+P1Vadodara2
+P1Vadodara3
+P3Vadodara1
+P3Vadodara2
+P3Vadodara3
+P3Vadodara1
+P3Vadodara2
+P3Vadodara3
+P3Vadodara4
+---------------------------------------------------
+Parcels in heap for Patna at Mumbai:
+Parcels in heap for Belgaum at Surat:
+Parcels in heap for Delhi at Pune:
+Parcels in heap for Lucknow at Pune:
+P3Pune1
+P3Pune2
+P3Pune3
+Parcels in heap for Vadodara at Nashik:
+P3Nashik3
+P3Nashik2
+P3Nashik1
+Parcels in heap for Pune at Tirupati:
+Parcels in heap for Bhopal at Tirupati:
+Parcels in heap for Bangalore at Ahmedabad:
+P3Ahmedabad1
+Parcels in heap for Nagpur at Jaipur:
+Parcels in heap for Pune at Madurai:
+Parcels in heap for Lucknow at Jammu:
+Parcels in heap for Rohtak at Jammu:
+Parcels in heap for Kolkata at Jammu:
+P3Jammu1
+P3Jammu2
+Parcels in heap for Ludhiana at Mangalore:
+P3Mangalore1
+P3Mangalore2
+Parcels in heap for Bangalore at Mangalore:
+P3Mangalore1
+Parcels in heap for Pune at Bangalore:
+Parcels in heap for Mangalore at Bangalore:
+Parcels in heap for Belgaum at Bangalore:
+P3Bangalore3
+P3Bangalore4
+P3Bangalore2
+P3Bangalore1
+Parcels in heap for Kolkata at Hyderabad:
+P3Hyderabad2
+P3Hyderabad1
+Parcels in heap for Ambala at Nagpur:
+Parcels in heap for Mangalore at Nagpur:
+Parcels in heap for Kanpur at Agra:
+Parcels in heap for Bangalore at Agra:
+Parcels in heap for Nellore at Agra:
+P3Agra1
+P3Agra4
+P3Agra3
+P3Agra2
+Parcels in heap for Kolkata at Faridabad:
+Parcels in heap for Ambala at Faridabad:
+Parcels in heap for Kanpur at Faridabad:
+Parcels in heap for Belgaum at Kolkata:
+Parcels in heap for Visakhapatnam at Kolkata:
+Parcels in heap for Bangalore at Kolkata:
+P3Kolkata1
+Parcels in heap for Ambala at Kanpur:
+Parcels in heap for Hyderabad at Visakhapatnam:
+P3Visakhapatnam1
+P3Visakhapatnam2
+P3Visakhapatnam3
+Parcels in heap for Bangalore at Jamshedpur:
+P3Jamshedpur2
+P3Jamshedpur1
+P3Jamshedpur3
+Parcels in heap for Nellore at Chennai:
+Parcels in heap for Jaipur at Ludhiana:
+Parcels in heap for Mangalore at Ambala:
+Parcels in heap for Faridabad at Vadodara:
+Parcels in heap for Surat at Vadodara:
+P3Vadodara2
+P3Vadodara1
+P3Vadodara3
+Parcels in heap for Kanpur at Vadodara:
+P3Vadodara2
+P3Vadodara4
+P3Vadodara3
+P3Vadodara1
+---------------------------------------------------
+---------------------------------------------------
+Final Loaded Cars at Mumbai :
+--------------------------------------
+Mumbai Patna
+--------------------------------------
+Final Loaded Cars at Surat :
+--------------------------------------
+Surat Belgaum
+P2Surat2 8
+P2Surat3 8
+--------------------------------------
+--------------------------------------
+Surat Belgaum
+P2Surat1 3
+--------------------------------------
+Final Loaded Cars at Pune :
+--------------------------------------
+Pune Delhi
+P2Pune1 2
+P2Pune2 2
+--------------------------------------
+--------------------------------------
+Pune Lucknow
+P3Pune1 5
+P3Pune2 5
+--------------------------------------
+--------------------------------------
+Pune Lucknow
+P3Pune3 3
+--------------------------------------
+Final Loaded Cars at Patna :
+Final Loaded Cars at Nashik :
+--------------------------------------
+Nashik Vadodara
+P3Nashik3 6
+P3Nashik1 2
+--------------------------------------
+--------------------------------------
+Nashik Vadodara
+P3Nashik2 2
+--------------------------------------
+Final Loaded Cars at Nellore :
+Final Loaded Cars at Tirupati :
+--------------------------------------
+Tirupati Pune
+P1Tirupati1 3
+P1Tirupati2 3
+--------------------------------------
+--------------------------------------
+Tirupati Bhopal
+P1Tirupati1 8
+P1Tirupati3 2
+--------------------------------------
+--------------------------------------
+Tirupati Bhopal
+P1Tirupati2 2
+--------------------------------------
+Final Loaded Cars at Delhi :
+Final Loaded Cars at Ahmedabad :
+--------------------------------------
+Ahmedabad Bangalore
+P3Ahmedabad1 1
+--------------------------------------
+Final Loaded Cars at Jaipur :
+--------------------------------------
+Jaipur Nagpur
+P2Jaipur2 7
+P2Jaipur3 7
+--------------------------------------
+--------------------------------------
+Jaipur Nagpur
+P2Jaipur1 1
+--------------------------------------
+Final Loaded Cars at Madurai :
+--------------------------------------
+Madurai Pune
+P1Madurai1 9
+--------------------------------------
+Final Loaded Cars at Jammu :
+--------------------------------------
+Jammu Lucknow
+P1Jammu1 8
+P1Jammu2 8
+--------------------------------------
+--------------------------------------
+Jammu Lucknow
+P1Jammu3 5
+P1Jammu4 4
+--------------------------------------
+--------------------------------------
+Jammu Rohtak
+P2Jammu1 2
+--------------------------------------
+--------------------------------------
+Jammu Kolkata
+P3Jammu1 10
+P3Jammu2 7
+--------------------------------------
+Final Loaded Cars at Belgaum :
+Final Loaded Cars at Mangalore :
+--------------------------------------
+Mangalore Ludhiana
+P3Mangalore1 8
+P3Mangalore2 2
+--------------------------------------
+--------------------------------------
+Mangalore Bangalore
+P3Mangalore1 2
+--------------------------------------
+Final Loaded Cars at Bangalore :
+--------------------------------------
+Bangalore Pune
+--------------------------------------
+--------------------------------------
+Bangalore Mangalore
+--------------------------------------
+--------------------------------------
+Bangalore Belgaum
+P3Bangalore3 10
+P3Bangalore2 9
+--------------------------------------
+--------------------------------------
+Bangalore Belgaum
+P3Bangalore4 8
+P3Bangalore1 7
+--------------------------------------
+Final Loaded Cars at Hyderabad :
+--------------------------------------
+Hyderabad Kolkata
+P3Hyderabad2 5
+P3Hyderabad1 1
+--------------------------------------
+Final Loaded Cars at Lucknow :
+Final Loaded Cars at Nagpur :
+--------------------------------------
+Nagpur Ambala
+P1Nagpur2 5
+P1Nagpur1 1
+--------------------------------------
+--------------------------------------
+Nagpur Mangalore
+P2Nagpur1 1
+--------------------------------------
+Final Loaded Cars at Agra :
+--------------------------------------
+Agra Kanpur
+P1Agra4 10
+P1Agra1 5
+--------------------------------------
+--------------------------------------
+Agra Kanpur
+P1Agra2 3
+P1Agra3 2
+--------------------------------------
+--------------------------------------
+Agra Bangalore
+P2Agra2 3
+P2Agra1 1
+--------------------------------------
+--------------------------------------
+Agra Nellore
+P3Agra1 8
+P3Agra4 5
+--------------------------------------
+--------------------------------------
+Agra Nellore
+P3Agra2 4
+P3Agra3 3
+--------------------------------------
+Final Loaded Cars at Faridabad :
+--------------------------------------
+Faridabad Kolkata
+P1Faridabad1 2
+--------------------------------------
+--------------------------------------
+Faridabad Ambala
+--------------------------------------
+--------------------------------------
+Faridabad Ambala
+--------------------------------------
+--------------------------------------
+Faridabad Kanpur
+P2Faridabad1 10
+P2Faridabad2 9
+--------------------------------------
+--------------------------------------
+Faridabad Kanpur
+P2Faridabad3 7
+P2Faridabad4 3
+--------------------------------------
+Final Loaded Cars at Kolkata :
+--------------------------------------
+Kolkata Belgaum
+--------------------------------------
+--------------------------------------
+Kolkata Belgaum
+--------------------------------------
+--------------------------------------
+Kolkata Visakhapatnam
+--------------------------------------
+--------------------------------------
+Kolkata Visakhapatnam
+--------------------------------------
+--------------------------------------
+Kolkata Bangalore
+P3Kolkata1 6
+--------------------------------------
+Final Loaded Cars at Kanpur :
+--------------------------------------
+Kanpur Ambala
+P2Kanpur3 8
+P2Kanpur4 6
+--------------------------------------
+--------------------------------------
+Kanpur Ambala
+P2Kanpur2 6
+P2Kanpur1 2
+--------------------------------------
+Final Loaded Cars at Visakhapatnam :
+--------------------------------------
+Visakhapatnam Hyderabad
+P3Visakhapatnam1 10
+P3Visakhapatnam3 5
+--------------------------------------
+--------------------------------------
+Visakhapatnam Hyderabad
+P3Visakhapatnam2 1
+--------------------------------------
+Final Loaded Cars at Jamshedpur :
+--------------------------------------
+Jamshedpur Bangalore
+P3Jamshedpur2 10
+P3Jamshedpur3 10
+--------------------------------------
+--------------------------------------
+Jamshedpur Bangalore
+P3Jamshedpur1 7
+--------------------------------------
+Final Loaded Cars at Rohtak :
+Final Loaded Cars at Chennai :
+--------------------------------------
+Chennai Nellore
+P1Chennai3 9
+P1Chennai1 7
+--------------------------------------
+--------------------------------------
+Chennai Nellore
+P1Chennai2 6
+--------------------------------------
+Final Loaded Cars at Ludhiana :
+--------------------------------------
+Ludhiana Jaipur
+P2Ludhiana1 9
+P2Ludhiana4 5
+--------------------------------------
+--------------------------------------
+Ludhiana Jaipur
+P2Ludhiana3 5
+P2Ludhiana2 5
+--------------------------------------
+Final Loaded Cars at Ambala :
+--------------------------------------
+Ambala Mangalore
+P1Ambala1 2
+--------------------------------------
+Final Loaded Cars at Bhopal :
+Final Loaded Cars at Vadodara :
+--------------------------------------
+Vadodara Faridabad
+P1Vadodara3 9
+P1Vadodara2 6
+--------------------------------------
+--------------------------------------
+Vadodara Faridabad
+P1Vadodara1 5
+--------------------------------------
+--------------------------------------
+Vadodara Surat
+P3Vadodara2 6
+P3Vadodara3 4
+--------------------------------------
+--------------------------------------
+Vadodara Surat
+P3Vadodara1 4
+--------------------------------------
+--------------------------------------
+Vadodara Kanpur
+P3Vadodara2 10
+P3Vadodara4 6
+--------------------------------------
+--------------------------------------
+Vadodara Kanpur
+P3Vadodara1 5
+P3Vadodara3 1
+--------------------------------------
+---------------------------------------------------
+Mumbai
+{'Patna': [<mmm.FreightCar object at 0x000001C31B5C9E10>, <mmm.FreightCar object at 0x000001C31B5C9E10>, <mmm.FreightCar object at 0x000001C31B5C9E10>]}
+ Destination : Patna 
+3
+Searching for Bfs link from Mumbai  to Patna
+Next Link : Patna
+Surat
+{'Belgaum': [<mmm.FreightCar object at 0x000001C31B5CC050>, <mmm.FreightCar object at 0x000001C31B5CC090>, <mmm.FreightCar object at 0x000001C31B5CC050>, <mmm.FreightCar object at 0x000001C31B5CC090>]}
+ Destination : Belgaum 
+4
+Searching for Bfs link from Surat  to Belgaum
+Next Link : Delhi
+Pune
+{'Delhi': [<mmm.FreightCar object at 0x000001C31B5CC0D0>, <mmm.FreightCar object at 0x000001C31B5CC0D0>], 'Lucknow': [<mmm.FreightCar object at 0x000001C31B5CEF50>, <mmm.FreightCar object at 0x000001C31B5CD210>]}
+ Destination : Delhi 
+2
+Searching for Bfs link from Pune  to Delhi
+Next Link : Delhi
+ Destination : Lucknow 
+2
+Searching for Bfs link from Pune  to Lucknow
+Next Link : Bangalore
+Patna
+{}
+Nashik
+{'Vadodara': [<mmm.FreightCar object at 0x000001C31B5CCED0>, <mmm.FreightCar object at 0x000001C31B5CDA90>]}
+ Destination : Vadodara 
+2
+Searching for Bfs link from Nashik  to Vadodara
+Next Link : Vadodara
+Nellore
+{}
+Tirupati
+{'Pune': [<mmm.FreightCar object at 0x000001C31B5C9ED0>, <mmm.FreightCar object at 0x000001C31B5C9ED0>, <mmm.FreightCar object at 0x000001C31B5C9ED0>], 'Bhopal': [<mmm.FreightCar object at 0x000001C31B5C9F90>, <mmm.FreightCar object at 0x000001C31B5CA010>, <mmm.FreightCar object at 0x000001C31B5C9F90>, <mmm.FreightCar object at 0x000001C31B5CA010>, <mmm.FreightCar object at 0x000001C31B5C9F90>, <mmm.FreightCar object at 0x000001C31B5CA010>]}
+ Destination : Pune 
+3
+Searching for Bfs link from Tirupati  to Pune
+Next Link : Mumbai
+ Destination : Bhopal 
+6
+Searching for Bfs link from Tirupati  to Bhopal
+Next Link : Kolkata
+Delhi
+{}
+Ahmedabad
+{'Bangalore': [<mmm.FreightCar object at 0x000001C31B5CD410>]}
+ Destination : Bangalore 
+1
+Jaipur
+{'Nagpur': [<mmm.FreightCar object at 0x000001C31B5CC110>, <mmm.FreightCar object at 0x000001C31B5CC150>, <mmm.FreightCar object at 0x000001C31B5CC110>, <mmm.FreightCar object at 0x000001C31B5CC150>]}
+ Destination : Nagpur 
+4
+Searching for Bfs link from Jaipur  to Nagpur
+Next Link : Jamshedpur
+Madurai
+{'Pune': [<mmm.FreightCar object at 0x000001C31B5CA0D0>, <mmm.FreightCar object at 0x000001C31B5CA0D0>, <mmm.FreightCar object at 0x000001C31B5CA0D0>]}
+ Destination : Pune 
+3
+Searching for Bfs link from Madurai  to Pune
+Next Link : Delhi
+Jammu
+{'Lucknow': [<mmm.FreightCar object at 0x000001C31B5CA190>, <mmm.FreightCar object at 0x000001C31B5CA250>, <mmm.FreightCar object at 0x000001C31B5CA190>, <mmm.FreightCar object at 0x000001C31B5CA250>, <mmm.FreightCar object at 0x000001C31B5CA190>, <mmm.FreightCar object at 0x000001C31B5CA250>], 'Rohtak': [<mmm.FreightCar object at 0x000001C31B5CC190>, <mmm.FreightCar object at 0x000001C31B5CC190>], 'Kolkata': [<mmm.FreightCar object at 0x000001C31B5CCF50>]}
+ Destination : Lucknow 
+6
+Searching for Bfs link from Jammu  to Lucknow
+Next Link : Bangalore
+ Destination : Rohtak 
+2
+Searching for Bfs link from Jammu  to Rohtak
+Next Link : Surat
+ Destination : Kolkata 
+1
+Belgaum
+{}
+Mangalore
+{'Ludhiana': [<mmm.FreightCar object at 0x000001C31B5CCC90>], 'Bangalore': [<mmm.FreightCar object at 0x000001C31B5CD310>]}
+ Destination : Ludhiana 
+1
+ Destination : Bangalore 
+1
+Bangalore
+{'Pune': [<mmm.FreightCar object at 0x000001C31B5CA2D0>, <mmm.FreightCar object at 0x000001C31B5CA2D0>, <mmm.FreightCar object at 0x000001C31B5CA2D0>], 'Mangalore': [<mmm.FreightCar object at 0x000001C31B5CA390>, <mmm.FreightCar object at 0x000001C31B5CA390>, <mmm.FreightCar object at 0x000001C31B5CA390>], 'Belgaum': [<mmm.FreightCar object at 0x000001C31B5CDAD0>, <mmm.FreightCar object at 0x000001C31B5CF790>]}
+ Destination : Pune 
+3
+Searching for Bfs link from Bangalore  to Pune
+Next Link : Pune
+ Destination : Mangalore 
+3
+Searching for Bfs link from Bangalore  to Mangalore
+Next Link : Mangalore
+ Destination : Belgaum 
+2
+Searching for Bfs link from Bangalore  to Belgaum
+Next Link : Belgaum
+Hyderabad
+{'Kolkata': [<mmm.FreightCar object at 0x000001C31B5CDD90>]}
+ Destination : Kolkata 
+1
+Lucknow
+{}
+Nagpur
+{'Ambala': [<mmm.FreightCar object at 0x000001C31B5CA450>, <mmm.FreightCar object at 0x000001C31B5CA450>, <mmm.FreightCar object at 0x000001C31B5CA450>], 'Mangalore': [<mmm.FreightCar object at 0x000001C31B5CC1D0>, <mmm.FreightCar object at 0x000001C31B5CC1D0>]}
+ Destination : Ambala 
+3
+Searching for Bfs link from Nagpur  to Ambala
+Next Link : Jammu
+ Destination : Mangalore 
+2
+Searching for Bfs link from Nagpur  to Mangalore
+Next Link : Bangalore
+Agra
+{'Kanpur': [<mmm.FreightCar object at 0x000001C31B5CA510>, <mmm.FreightCar object at 0x000001C31B5CA5D0>, <mmm.FreightCar object at 0x000001C31B5CA510>, <mmm.FreightCar object at 0x000001C31B5CA5D0>, <mmm.FreightCar object at 0x000001C31B5CA510>, <mmm.FreightCar object at 0x000001C31B5CA5D0>], 'Bangalore': [<mmm.FreightCar object at 0x000001C31B5CC210>, <mmm.FreightCar object at 0x000001C31B5CC210>], 'Nellore': [<mmm.FreightCar object at 0x000001C31B5CD490>, <mmm.FreightCar object at 0x000001C31B5CEA10>]}
+ Destination : Kanpur 
+6
+Searching for Bfs link from Agra  to Kanpur
+Next Link : Bangalore
+ Destination : Bangalore 
+2
+Searching for Bfs link from Agra  to Bangalore
+Next Link : Bangalore
+ Destination : Nellore 
+2
+Searching for Bfs link from Agra  to Nellore
+Next Link : Jaipur
+Faridabad
+{'Kolkata': [<mmm.FreightCar object at 0x000001C31B5CA650>, <mmm.FreightCar object at 0x000001C31B5CA650>, <mmm.FreightCar object at 0x000001C31B5CA650>], 'Ambala': [<mmm.FreightCar object at 0x000001C31B5CC250>, <mmm.FreightCar object at 0x000001C31B5CC290>, <mmm.FreightCar object at 0x000001C31B5CC250>, <mmm.FreightCar object at 0x000001C31B5CC290>], 'Kanpur': [<mmm.FreightCar object at 0x000001C31B5CC2D0>, <mmm.FreightCar object at 0x000001C31B5CC310>, <mmm.FreightCar object at 0x000001C31B5CC2D0>, <mmm.FreightCar object at 0x000001C31B5CC310>]}
+ Destination : Kolkata 
+3
+Searching for Bfs link from Faridabad  to Kolkata
+Next Link : Pune
+ Destination : Ambala 
+4
+Searching for Bfs link from Faridabad  to Ambala
+Next Link : Ambala
+ Destination : Kanpur 
+4
+Searching for Bfs link from Faridabad  to Kanpur
+Next Link : Pune
+Kolkata
+{'Belgaum': [<mmm.FreightCar object at 0x000001C31B5CA710>, <mmm.FreightCar object at 0x000001C31B5CA7D0>, <mmm.FreightCar object at 0x000001C31B5CA710>, <mmm.FreightCar object at 0x000001C31B5CA7D0>, <mmm.FreightCar object at 0x000001C31B5CA710>, <mmm.FreightCar object at 0x000001C31B5CA7D0>], 'Visakhapatnam': [<mmm.FreightCar object at 0x000001C31B5CC390>, <mmm.FreightCar object at 0x000001C31B5CC3D0>, <mmm.FreightCar object at 0x000001C31B5CC390>, <mmm.FreightCar object at 0x000001C31B5CC3D0>], 'Bangalore': [<mmm.FreightCar object at 0x000001C31B5CDB10>]}
+ Destination : Belgaum 
+6
+Searching for Bfs link from Kolkata  to Belgaum
+Next Link : Belgaum
+ Destination : Visakhapatnam 
+4
+Searching for Bfs link from Kolkata  to Visakhapatnam
+Next Link : Visakhapatnam
+ Destination : Bangalore 
+1
+Kanpur
+{'Ambala': [<mmm.FreightCar object at 0x000001C31B5CC410>, <mmm.FreightCar object at 0x000001C31B5CC450>, <mmm.FreightCar object at 0x000001C31B5CC410>, <mmm.FreightCar object at 0x000001C31B5CC450>]}
+ Destination : Ambala 
+4
+Searching for Bfs link from Kanpur  to Ambala
+Next Link : Kolkata
+Visakhapatnam
+{'Hyderabad': [<mmm.FreightCar object at 0x000001C31B5CD590>, <mmm.FreightCar object at 0x000001C31B5CDE10>]}
+ Destination : Hyderabad 
+2
+Searching for Bfs link from Visakhapatnam  to Hyderabad
+Next Link : Hyderabad
+Jamshedpur
+{'Bangalore': [<mmm.FreightCar object at 0x000001C31B5CD050>, <mmm.FreightCar object at 0x000001C31B5CDF50>]}
+ Destination : Bangalore 
+2
+Searching for Bfs link from Jamshedpur  to Bangalore
+Next Link : Nagpur
+Rohtak
+{}
+Chennai
+{'Nellore': [<mmm.FreightCar object at 0x000001C31B5CA850>, <mmm.FreightCar object at 0x000001C31B5CA910>, <mmm.FreightCar object at 0x000001C31B5CA850>, <mmm.FreightCar object at 0x000001C31B5CA910>, <mmm.FreightCar object at 0x000001C31B5CA850>, <mmm.FreightCar object at 0x000001C31B5CA910>]}
+ Destination : Nellore 
+6
+Searching for Bfs link from Chennai  to Nellore
+Next Link : Faridabad
+Ludhiana
+{'Jaipur': [<mmm.FreightCar object at 0x000001C31B5CC510>, <mmm.FreightCar object at 0x000001C31B5CC550>, <mmm.FreightCar object at 0x000001C31B5CC510>, <mmm.FreightCar object at 0x000001C31B5CC550>]}
+ Destination : Jaipur 
+4
+Searching for Bfs link from Ludhiana  to Jaipur
+Next Link : Patna
+Ambala
+{'Mangalore': [<mmm.FreightCar object at 0x000001C31B5CA990>, <mmm.FreightCar object at 0x000001C31B5CA990>, <mmm.FreightCar object at 0x000001C31B5CA990>]}
+ Destination : Mangalore 
+3
+Searching for Bfs link from Ambala  to Mangalore
+Next Link : Chennai
+Bhopal
+{}
+Vadodara
+{'Faridabad': [<mmm.FreightCar object at 0x000001C31B5CAA50>, <mmm.FreightCar object at 0x000001C31B5CAB10>, <mmm.FreightCar object at 0x000001C31B5CAA50>, <mmm.FreightCar object at 0x000001C31B5CAB10>, <mmm.FreightCar object at 0x000001C31B5CAA50>, <mmm.FreightCar object at 0x000001C31B5CAB10>], 'Surat': [<mmm.FreightCar object at 0x000001C31B5CDF90>, <mmm.FreightCar object at 0x000001C31B5CDFD0>], 'Kanpur': [<mmm.FreightCar object at 0x000001C31B5CE010>, <mmm.FreightCar object at 0x000001C31B5CE090>]}
+ Destination : Faridabad 
+6
+Searching for Bfs link from Vadodara  to Faridabad
+Next Link : Nellore
+ Destination : Surat 
+2
+Searching for Bfs link from Vadodara  to Surat
+Next Link : Nellore
+ Destination : Kanpur 
+2
+Searching for Bfs link from Vadodara  to Kanpur
+Next Link : Nagpur
+---------------------------------------------------
+At Mumbai, outbound to Patna
+--------------------------------------
+Origin :  Mumbai Destination Patna
+--------------------------------------
+--------------------------------------
+Origin :  Mumbai Destination Patna
+--------------------------------------
+--------------------------------------
+Origin :  Mumbai Destination Patna
+--------------------------------------
+--------------------------------------
+Origin :  Mumbai Destination Patna
+--------------------------------------
+--------------------------------------
+Origin :  Mumbai Destination Patna
+--------------------------------------
+At Surat, outbound to Delhi
+--------------------------------------
+Origin :  Surat Destination Belgaum
+P2Surat2 8
+P2Surat3 8
+--------------------------------------
+--------------------------------------
+Origin :  Surat Destination Belgaum
+P2Surat1 3
+--------------------------------------
+--------------------------------------
+Origin :  Surat Destination Belgaum
+P2Surat2 8
+P2Surat3 8
+--------------------------------------
+--------------------------------------
+Origin :  Surat Destination Belgaum
+P2Surat1 3
+--------------------------------------
+--------------------------------------
+Origin :  Surat Destination Belgaum
+P2Surat2 8
+P2Surat3 8
+--------------------------------------
+--------------------------------------
+Origin :  Surat Destination Belgaum
+P2Surat1 3
+--------------------------------------
+At Pune, outbound to Delhi
+--------------------------------------
+Origin :  Pune Destination Delhi
+P2Pune1 2
+P2Pune2 2
+--------------------------------------
+--------------------------------------
+Origin :  Pune Destination Delhi
+P2Pune1 2
+P2Pune2 2
+--------------------------------------
+At Pune, outbound to Bangalore
+--------------------------------------
+Origin :  Pune Destination Lucknow
+P3Pune1 5
+P3Pune2 5
+--------------------------------------
+--------------------------------------
+Origin :  Pune Destination Lucknow
+P3Pune3 3
+--------------------------------------
+At Nashik, outbound to Vadodara
+--------------------------------------
+Origin :  Nashik Destination Vadodara
+P3Nashik3 6
+P3Nashik1 2
+--------------------------------------
+--------------------------------------
+Origin :  Nashik Destination Vadodara
+P3Nashik2 2
+--------------------------------------
+At Tirupati, outbound to Kolkata
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati1 8
+P1Tirupati3 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati2 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati1 8
+P1Tirupati3 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati2 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati1 8
+P1Tirupati3 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati2 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati1 8
+P1Tirupati3 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati2 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati1 8
+P1Tirupati3 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati2 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati1 8
+P1Tirupati3 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati2 2
+--------------------------------------
+At Tirupati, outbound to Mumbai
+--------------------------------------
+Origin :  Tirupati Destination Pune
+P1Tirupati1 3
+P1Tirupati2 3
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Pune
+P1Tirupati1 3
+P1Tirupati2 3
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Pune
+P1Tirupati1 3
+P1Tirupati2 3
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Pune
+P1Tirupati1 3
+P1Tirupati2 3
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Pune
+P1Tirupati1 3
+P1Tirupati2 3
+--------------------------------------
+At Jaipur, outbound to Jamshedpur
+--------------------------------------
+Origin :  Jaipur Destination Nagpur
+P2Jaipur2 7
+P2Jaipur3 7
+--------------------------------------
+--------------------------------------
+Origin :  Jaipur Destination Nagpur
+P2Jaipur1 1
+--------------------------------------
+--------------------------------------
+Origin :  Jaipur Destination Nagpur
+P2Jaipur2 7
+P2Jaipur3 7
+--------------------------------------
+--------------------------------------
+Origin :  Jaipur Destination Nagpur
+P2Jaipur1 1
+--------------------------------------
+--------------------------------------
+Origin :  Jaipur Destination Nagpur
+P2Jaipur2 7
+P2Jaipur3 7
+--------------------------------------
+--------------------------------------
+Origin :  Jaipur Destination Nagpur
+P2Jaipur1 1
+--------------------------------------
+At Madurai, outbound to Delhi
+--------------------------------------
+Origin :  Madurai Destination Pune
+P1Madurai1 9
+--------------------------------------
+--------------------------------------
+Origin :  Madurai Destination Pune
+P1Madurai1 9
+--------------------------------------
+--------------------------------------
+Origin :  Madurai Destination Pune
+P1Madurai1 9
+--------------------------------------
+--------------------------------------
+Origin :  Madurai Destination Pune
+P1Madurai1 9
+--------------------------------------
+--------------------------------------
+Origin :  Madurai Destination Pune
+P1Madurai1 9
+--------------------------------------
+At Jammu, outbound to Bangalore
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu1 8
+P1Jammu2 8
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu3 5
+P1Jammu4 4
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu1 8
+P1Jammu2 8
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu3 5
+P1Jammu4 4
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu1 8
+P1Jammu2 8
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu3 5
+P1Jammu4 4
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu1 8
+P1Jammu2 8
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu3 5
+P1Jammu4 4
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu1 8
+P1Jammu2 8
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu3 5
+P1Jammu4 4
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu1 8
+P1Jammu2 8
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu3 5
+P1Jammu4 4
+--------------------------------------
+At Jammu, outbound to Surat
+--------------------------------------
+Origin :  Jammu Destination Rohtak
+P2Jammu1 2
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Rohtak
+P2Jammu1 2
+--------------------------------------
+At Bangalore, outbound to Pune
+--------------------------------------
+Origin :  Bangalore Destination Pune
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Pune
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Pune
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Pune
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Pune
+--------------------------------------
+At Bangalore, outbound to Mangalore
+--------------------------------------
+Origin :  Bangalore Destination Mangalore
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Mangalore
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Mangalore
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Mangalore
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Mangalore
+--------------------------------------
+At Bangalore, outbound to Belgaum
+--------------------------------------
+Origin :  Bangalore Destination Belgaum
+P3Bangalore3 10
+P3Bangalore2 9
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Belgaum
+P3Bangalore4 8
+P3Bangalore1 7
+--------------------------------------
+At Nagpur, outbound to Jammu
+--------------------------------------
+Origin :  Nagpur Destination Ambala
+P1Nagpur2 5
+P1Nagpur1 1
+--------------------------------------
+--------------------------------------
+Origin :  Nagpur Destination Ambala
+P1Nagpur2 5
+P1Nagpur1 1
+--------------------------------------
+--------------------------------------
+Origin :  Nagpur Destination Ambala
+P1Nagpur2 5
+P1Nagpur1 1
+--------------------------------------
+--------------------------------------
+Origin :  Nagpur Destination Ambala
+P1Nagpur2 5
+P1Nagpur1 1
+--------------------------------------
+--------------------------------------
+Origin :  Nagpur Destination Ambala
+P1Nagpur2 5
+P1Nagpur1 1
+--------------------------------------
+At Nagpur, outbound to Bangalore
+--------------------------------------
+Origin :  Nagpur Destination Mangalore
+P2Nagpur1 1
+--------------------------------------
+--------------------------------------
+Origin :  Nagpur Destination Mangalore
+P2Nagpur1 1
+--------------------------------------
+At Agra, outbound to Bangalore
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra4 10
+P1Agra1 5
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra2 3
+P1Agra3 2
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra4 10
+P1Agra1 5
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra2 3
+P1Agra3 2
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra4 10
+P1Agra1 5
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra2 3
+P1Agra3 2
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra4 10
+P1Agra1 5
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra2 3
+P1Agra3 2
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra4 10
+P1Agra1 5
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra2 3
+P1Agra3 2
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra4 10
+P1Agra1 5
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra2 3
+P1Agra3 2
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Bangalore
+P2Agra2 3
+P2Agra1 1
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Bangalore
+P2Agra2 3
+P2Agra1 1
+--------------------------------------
+At Agra, outbound to Jaipur
+--------------------------------------
+Origin :  Agra Destination Nellore
+P3Agra1 8
+P3Agra4 5
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Nellore
+P3Agra2 4
+P3Agra3 3
+--------------------------------------
+At Faridabad, outbound to Pune
+--------------------------------------
+Origin :  Faridabad Destination Kolkata
+P1Faridabad1 2
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kolkata
+P1Faridabad1 2
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kanpur
+P2Faridabad1 10
+P2Faridabad2 9
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kanpur
+P2Faridabad3 7
+P2Faridabad4 3
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kolkata
+P1Faridabad1 2
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kolkata
+P1Faridabad1 2
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kolkata
+P1Faridabad1 2
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kanpur
+P2Faridabad1 10
+P2Faridabad2 9
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kanpur
+P2Faridabad3 7
+P2Faridabad4 3
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kanpur
+P2Faridabad1 10
+P2Faridabad2 9
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kanpur
+P2Faridabad3 7
+P2Faridabad4 3
+--------------------------------------
+At Faridabad, outbound to Ambala
+--------------------------------------
+Origin :  Faridabad Destination Ambala
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Ambala
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Ambala
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Ambala
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Ambala
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Ambala
+--------------------------------------
+At Kolkata, outbound to Belgaum
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+At Kolkata, outbound to Visakhapatnam
+--------------------------------------
+Origin :  Kolkata Destination Visakhapatnam
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Visakhapatnam
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Visakhapatnam
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Visakhapatnam
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Visakhapatnam
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Visakhapatnam
+--------------------------------------
+At Kanpur, outbound to Kolkata
+--------------------------------------
+Origin :  Kanpur Destination Ambala
+P2Kanpur3 8
+P2Kanpur4 6
+--------------------------------------
+--------------------------------------
+Origin :  Kanpur Destination Ambala
+P2Kanpur2 6
+P2Kanpur1 2
+--------------------------------------
+--------------------------------------
+Origin :  Kanpur Destination Ambala
+P2Kanpur3 8
+P2Kanpur4 6
+--------------------------------------
+--------------------------------------
+Origin :  Kanpur Destination Ambala
+P2Kanpur2 6
+P2Kanpur1 2
+--------------------------------------
+--------------------------------------
+Origin :  Kanpur Destination Ambala
+P2Kanpur3 8
+P2Kanpur4 6
+--------------------------------------
+--------------------------------------
+Origin :  Kanpur Destination Ambala
+P2Kanpur2 6
+P2Kanpur1 2
+--------------------------------------
+At Visakhapatnam, outbound to Hyderabad
+--------------------------------------
+Origin :  Visakhapatnam Destination Hyderabad
+P3Visakhapatnam1 10
+P3Visakhapatnam3 5
+--------------------------------------
+--------------------------------------
+Origin :  Visakhapatnam Destination Hyderabad
+P3Visakhapatnam2 1
+--------------------------------------
+At Jamshedpur, outbound to Nagpur
+--------------------------------------
+Origin :  Jamshedpur Destination Bangalore
+P3Jamshedpur2 10
+P3Jamshedpur3 10
+--------------------------------------
+--------------------------------------
+Origin :  Jamshedpur Destination Bangalore
+P3Jamshedpur1 7
+--------------------------------------
+At Chennai, outbound to Faridabad
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai3 9
+P1Chennai1 7
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai2 6
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai3 9
+P1Chennai1 7
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai2 6
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai3 9
+P1Chennai1 7
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai2 6
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai3 9
+P1Chennai1 7
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai2 6
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai3 9
+P1Chennai1 7
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai2 6
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai3 9
+P1Chennai1 7
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai2 6
+--------------------------------------
+At Ludhiana, outbound to Patna
+--------------------------------------
+Origin :  Ludhiana Destination Jaipur
+P2Ludhiana1 9
+P2Ludhiana4 5
+--------------------------------------
+--------------------------------------
+Origin :  Ludhiana Destination Jaipur
+P2Ludhiana3 5
+P2Ludhiana2 5
+--------------------------------------
+--------------------------------------
+Origin :  Ludhiana Destination Jaipur
+P2Ludhiana1 9
+P2Ludhiana4 5
+--------------------------------------
+--------------------------------------
+Origin :  Ludhiana Destination Jaipur
+P2Ludhiana3 5
+P2Ludhiana2 5
+--------------------------------------
+--------------------------------------
+Origin :  Ludhiana Destination Jaipur
+P2Ludhiana1 9
+P2Ludhiana4 5
+--------------------------------------
+--------------------------------------
+Origin :  Ludhiana Destination Jaipur
+P2Ludhiana3 5
+P2Ludhiana2 5
+--------------------------------------
+At Ambala, outbound to Chennai
+--------------------------------------
+Origin :  Ambala Destination Mangalore
+P1Ambala1 2
+--------------------------------------
+--------------------------------------
+Origin :  Ambala Destination Mangalore
+P1Ambala1 2
+--------------------------------------
+--------------------------------------
+Origin :  Ambala Destination Mangalore
+P1Ambala1 2
+--------------------------------------
+--------------------------------------
+Origin :  Ambala Destination Mangalore
+P1Ambala1 2
+--------------------------------------
+--------------------------------------
+Origin :  Ambala Destination Mangalore
+P1Ambala1 2
+--------------------------------------
+At Vadodara, outbound to Nellore
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara3 9
+P1Vadodara2 6
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara1 5
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara3 9
+P1Vadodara2 6
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara1 5
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara3 9
+P1Vadodara2 6
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara1 5
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara3 9
+P1Vadodara2 6
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara1 5
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara3 9
+P1Vadodara2 6
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara1 5
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara3 9
+P1Vadodara2 6
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara1 5
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Surat
+P3Vadodara2 6
+P3Vadodara3 4
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Surat
+P3Vadodara1 4
+--------------------------------------
+At Vadodara, outbound to Nagpur
+--------------------------------------
+Origin :  Vadodara Destination Kanpur
+P3Vadodara2 10
+P3Vadodara4 6
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Kanpur
+P3Vadodara1 5
+P3Vadodara3 1
+--------------------------------------
+---------------------------------------------------
+Time tick: 3
+---------------------------------------------------
+Parcels delivered up to time tick: ['P1Bangalore1', 'P1Bangalore2', 'P1Mumbai1', 'P1Kolkata1', 'P1Kolkata2', 'P1Kolkata3', 'P2Pune1', 'P2Pune2', 'P2Agra1', 'P2Agra2', 'P2Kolkata1', 'P2Kolkata2', 'P2Kolkata3', 'P3Bangalore1', 'P3Bangalore2', 'P3Bangalore3', 'P3Bangalore4', 'P3Nashik1', 'P3Nashik2', 'P3Nashik3', 'P3Visakhapatnam1', 'P3Visakhapatnam2', 'P3Visakhapatnam3']
+---------------------------------------------------
+State of parcels:
+P1Jammu1
+P1Jammu2
+P1Jammu3
+P1Jammu4
+P1Bangalore1
+P1Bangalore2
+P1Mumbai1
+P1Vadodara1
+P1Vadodara2
+P1Vadodara3
+P1Tirupati1
+P1Tirupati2
+P1Faridabad1
+P1Madurai1
+P1Chennai1
+P1Chennai2
+P1Chennai3
+P1Agra1
+P1Agra2
+P1Agra3
+P1Agra4
+P1Kolkata1
+P1Kolkata2
+P1Kolkata3
+P1Ambala1
+P1Tirupati3
+P1Nagpur1
+P1Nagpur2
+P2Faridabad1
+P2Faridabad2
+P2Faridabad3
+P2Kanpur1
+P2Kanpur2
+P2Kanpur3
+P2Kanpur4
+P2Jaipur1
+P2Jaipur2
+P2Jaipur3
+P2Faridabad4
+P2Ludhiana1
+P2Ludhiana2
+P2Ludhiana3
+P2Ludhiana4
+P2Jammu1
+P2Pune1
+P2Pune2
+P2Agra1
+P2Agra2
+P2Kolkata1
+P2Kolkata2
+P2Kolkata3
+P2Surat1
+P2Surat2
+P2Surat3
+P2Nagpur1
+P3Kolkata1
+P3Mangalore1
+P3Mangalore2
+P3Hyderabad1
+P3Hyderabad2
+P3Jammu1
+P3Jammu2
+P3Bangalore1
+P3Bangalore2
+P3Bangalore3
+P3Bangalore4
+P3Ahmedabad1
+P3Jamshedpur1
+P3Jamshedpur2
+P3Jamshedpur3
+P3Vadodara1
+P3Vadodara2
+P3Vadodara3
+P3Nashik1
+P3Nashik2
+P3Nashik3
+P3Agra1
+P3Agra2
+P3Agra3
+P3Agra4
+P3Vadodara4
+P3Pune1
+P3Pune2
+P3Pune3
+P3Visakhapatnam1
+P3Visakhapatnam2
+P3Visakhapatnam3
+---------------------------------------------------
+---------------------------------------------------
+Delivered parcels: ['P1Bangalore1', 'P1Bangalore2', 'P1Mumbai1', 'P1Kolkata1', 'P1Kolkata2', 'P1Kolkata3', 'P2Pune1', 'P2Pune2', 'P2Agra1', 'P2Agra2', 'P2Kolkata1', 'P2Kolkata2', 'P2Kolkata3', 'P3Bangalore1', 'P3Bangalore2', 'P3Bangalore3', 'P3Bangalore4', 'P3Nashik1', 'P3Nashik2', 'P3Nashik3', 'P3Visakhapatnam1', 'P3Visakhapatnam2', 'P3Visakhapatnam3']
+Stranded parcels: ['P1Jammu1', 'P1Jammu2', 'P1Jammu3', 'P1Jammu4', 'P1Vadodara1', 'P1Vadodara2', 'P1Vadodara3', 'P1Tirupati1', 'P1Tirupati2', 'P1Faridabad1', 'P1Madurai1', 'P1Chennai1', 'P1Chennai2', 'P1Chennai3', 'P1Agra1', 'P1Agra2', 'P1Agra3', 'P1Agra4', 'P1Ambala1', 'P1Tirupati3', 'P1Nagpur1', 'P1Nagpur2', 'P2Faridabad1', 'P2Faridabad2', 'P2Faridabad3', 'P2Kanpur1', 'P2Kanpur2', 'P2Kanpur3', 'P2Kanpur4', 'P2Jaipur1', 'P2Jaipur2', 'P2Jaipur3', 'P2Faridabad4', 'P2Ludhiana1', 'P2Ludhiana2', 'P2Ludhiana3', 'P2Ludhiana4', 'P2Jammu1', 'P2Surat1', 'P2Surat2', 'P2Surat3', 'P2Nagpur1', 'P3Kolkata1', 'P3Mangalore1', 'P3Mangalore2', 'P3Hyderabad1', 'P3Hyderabad2', 'P3Jammu1', 'P3Jammu2', 'P3Ahmedabad1', 'P3Jamshedpur1', 'P3Jamshedpur2', 'P3Jamshedpur3', 'P3Vadodara1', 'P3Vadodara2', 'P3Vadodara3', 'P3Agra1', 'P3Agra2', 'P3Agra3', 'P3Agra4', 'P3Vadodara4', 'P3Pune1', 'P3Pune2', 'P3Pune3']
+---------------------------------------------------
+TIME TICK TIME TIME TICK : 4 ----------------------------
+---------------------------------------------------
+All parcels to be loaded at a time tick :
+P1Jammu1
+P1Jammu2
+P1Jammu3
+P1Jammu4
+P1Bangalore1
+P1Bangalore2
+P1Mumbai1
+P1Vadodara1
+P1Vadodara2
+P1Vadodara3
+P1Tirupati1
+P1Tirupati2
+P1Faridabad1
+P1Madurai1
+P1Chennai1
+P1Chennai2
+P1Chennai3
+P1Agra1
+P1Agra2
+P1Agra3
+P1Agra4
+P1Kolkata1
+P1Kolkata2
+P1Kolkata3
+P1Ambala1
+P1Tirupati1
+P1Tirupati2
+P1Tirupati3
+P1Bangalore1
+P1Nagpur1
+P1Nagpur2
+------------------------------------------------------
+---------------------------------------------------
+Final Loaded Parcels at Mumbai : 
+P1Mumbai1
+Final Loaded Parcels at Surat : 
+P2Surat1
+P2Surat2
+P2Surat3
+Final Loaded Parcels at Pune : 
+P2Pune1
+P2Pune2
+P3Pune1
+P3Pune2
+P3Pune3
+Final Loaded Parcels at Patna : 
+Final Loaded Parcels at Nashik : 
+P3Nashik1
+P3Nashik2
+P3Nashik3
+Final Loaded Parcels at Nellore : 
+Final Loaded Parcels at Tirupati : 
+P1Tirupati1
+P1Tirupati2
+P1Tirupati1
+P1Tirupati2
+P1Tirupati3
+Final Loaded Parcels at Delhi : 
+Final Loaded Parcels at Ahmedabad : 
+P3Ahmedabad1
+Final Loaded Parcels at Jaipur : 
+P2Jaipur1
+P2Jaipur2
+P2Jaipur3
+Final Loaded Parcels at Madurai : 
+P1Madurai1
+Final Loaded Parcels at Jammu : 
+P1Jammu1
+P1Jammu2
+P1Jammu3
+P1Jammu4
+P2Jammu1
+P3Jammu1
+P3Jammu2
+Final Loaded Parcels at Belgaum : 
+Final Loaded Parcels at Mangalore : 
+P3Mangalore1
+P3Mangalore2
+P3Mangalore1
+Final Loaded Parcels at Bangalore : 
+P1Bangalore1
+P1Bangalore2
+P1Bangalore1
+P3Bangalore1
+P3Bangalore2
+P3Bangalore3
+P3Bangalore4
+Final Loaded Parcels at Hyderabad : 
+P3Hyderabad1
+P3Hyderabad2
+Final Loaded Parcels at Lucknow : 
+Final Loaded Parcels at Nagpur : 
+P1Nagpur1
+P1Nagpur2
+P2Nagpur1
+Final Loaded Parcels at Agra : 
+P1Agra1
+P1Agra2
+P1Agra3
+P1Agra4
+P2Agra1
+P2Agra2
+P3Agra1
+P3Agra2
+P3Agra3
+P3Agra4
+Final Loaded Parcels at Faridabad : 
+P1Faridabad1
+P2Faridabad1
+P2Faridabad2
+P2Faridabad3
+P2Faridabad1
+P2Faridabad2
+P2Faridabad3
+P2Faridabad4
+Final Loaded Parcels at Kolkata : 
+P1Kolkata1
+P1Kolkata2
+P1Kolkata3
+P2Kolkata1
+P2Kolkata2
+P2Kolkata3
+P3Kolkata1
+Final Loaded Parcels at Kanpur : 
+P2Kanpur1
+P2Kanpur2
+P2Kanpur3
+P2Kanpur4
+Final Loaded Parcels at Visakhapatnam : 
+P3Visakhapatnam1
+P3Visakhapatnam2
+P3Visakhapatnam3
+Final Loaded Parcels at Jamshedpur : 
+P3Jamshedpur1
+P3Jamshedpur2
+P3Jamshedpur3
+Final Loaded Parcels at Rohtak : 
+Final Loaded Parcels at Chennai : 
+P1Chennai1
+P1Chennai2
+P1Chennai3
+Final Loaded Parcels at Ludhiana : 
+P2Ludhiana1
+P2Ludhiana2
+P2Ludhiana3
+P2Ludhiana4
+Final Loaded Parcels at Ambala : 
+P1Ambala1
+Final Loaded Parcels at Bhopal : 
+Final Loaded Parcels at Vadodara : 
+P1Vadodara1
+P1Vadodara2
+P1Vadodara3
+P3Vadodara1
+P3Vadodara2
+P3Vadodara3
+P3Vadodara1
+P3Vadodara2
+P3Vadodara3
+P3Vadodara4
+---------------------------------------------------
+Parcels in heap for Patna at Mumbai:
+Parcels in heap for Belgaum at Surat:
+Parcels in heap for Delhi at Pune:
+Parcels in heap for Lucknow at Pune:
+Parcels in heap for Vadodara at Nashik:
+Parcels in heap for Pune at Tirupati:
+Parcels in heap for Bhopal at Tirupati:
+Parcels in heap for Bangalore at Ahmedabad:
+Parcels in heap for Nagpur at Jaipur:
+Parcels in heap for Pune at Madurai:
+Parcels in heap for Lucknow at Jammu:
+Parcels in heap for Rohtak at Jammu:
+Parcels in heap for Kolkata at Jammu:
+Parcels in heap for Ludhiana at Mangalore:
+Parcels in heap for Bangalore at Mangalore:
+Parcels in heap for Pune at Bangalore:
+Parcels in heap for Mangalore at Bangalore:
+Parcels in heap for Belgaum at Bangalore:
+Parcels in heap for Kolkata at Hyderabad:
+Parcels in heap for Ambala at Nagpur:
+Parcels in heap for Mangalore at Nagpur:
+Parcels in heap for Kanpur at Agra:
+Parcels in heap for Bangalore at Agra:
+Parcels in heap for Nellore at Agra:
+Parcels in heap for Kolkata at Faridabad:
+Parcels in heap for Ambala at Faridabad:
+Parcels in heap for Kanpur at Faridabad:
+Parcels in heap for Belgaum at Kolkata:
+Parcels in heap for Visakhapatnam at Kolkata:
+Parcels in heap for Bangalore at Kolkata:
+Parcels in heap for Ambala at Kanpur:
+Parcels in heap for Hyderabad at Visakhapatnam:
+Parcels in heap for Bangalore at Jamshedpur:
+Parcels in heap for Nellore at Chennai:
+Parcels in heap for Jaipur at Ludhiana:
+Parcels in heap for Mangalore at Ambala:
+Parcels in heap for Faridabad at Vadodara:
+Parcels in heap for Surat at Vadodara:
+Parcels in heap for Kanpur at Vadodara:
+---------------------------------------------------
+---------------------------------------------------
+Final Loaded Cars at Mumbai :
+--------------------------------------
+Mumbai Patna
+--------------------------------------
+Final Loaded Cars at Surat :
+--------------------------------------
+Surat Belgaum
+P2Surat2 8
+P2Surat3 8
+--------------------------------------
+--------------------------------------
+Surat Belgaum
+P2Surat1 3
+--------------------------------------
+Final Loaded Cars at Pune :
+--------------------------------------
+Pune Delhi
+--------------------------------------
+--------------------------------------
+Pune Lucknow
+P3Pune1 5
+P3Pune2 5
+--------------------------------------
+--------------------------------------
+Pune Lucknow
+P3Pune3 3
+--------------------------------------
+Final Loaded Cars at Patna :
+Final Loaded Cars at Nashik :
+--------------------------------------
+Nashik Vadodara
+--------------------------------------
+--------------------------------------
+Nashik Vadodara
+--------------------------------------
+Final Loaded Cars at Nellore :
+Final Loaded Cars at Tirupati :
+--------------------------------------
+Tirupati Pune
+P1Tirupati1 3
+P1Tirupati2 3
+--------------------------------------
+--------------------------------------
+Tirupati Bhopal
+P1Tirupati1 8
+P1Tirupati3 2
+--------------------------------------
+--------------------------------------
+Tirupati Bhopal
+P1Tirupati2 2
+--------------------------------------
+Final Loaded Cars at Delhi :
+Final Loaded Cars at Ahmedabad :
+--------------------------------------
+Ahmedabad Bangalore
+P3Ahmedabad1 1
+--------------------------------------
+Final Loaded Cars at Jaipur :
+--------------------------------------
+Jaipur Nagpur
+P2Jaipur2 7
+P2Jaipur3 7
+--------------------------------------
+--------------------------------------
+Jaipur Nagpur
+P2Jaipur1 1
+--------------------------------------
+Final Loaded Cars at Madurai :
+--------------------------------------
+Madurai Pune
+P1Madurai1 9
+--------------------------------------
+Final Loaded Cars at Jammu :
+--------------------------------------
+Jammu Lucknow
+P1Jammu1 8
+P1Jammu2 8
+--------------------------------------
+--------------------------------------
+Jammu Lucknow
+P1Jammu3 5
+P1Jammu4 4
+--------------------------------------
+--------------------------------------
+Jammu Rohtak
+P2Jammu1 2
+--------------------------------------
+--------------------------------------
+Jammu Kolkata
+P3Jammu1 10
+P3Jammu2 7
+--------------------------------------
+Final Loaded Cars at Belgaum :
+Final Loaded Cars at Mangalore :
+--------------------------------------
+Mangalore Ludhiana
+P3Mangalore1 8
+P3Mangalore2 2
+--------------------------------------
+--------------------------------------
+Mangalore Bangalore
+P3Mangalore1 2
+--------------------------------------
+Final Loaded Cars at Bangalore :
+--------------------------------------
+Bangalore Pune
+--------------------------------------
+--------------------------------------
+Bangalore Mangalore
+--------------------------------------
+--------------------------------------
+Bangalore Belgaum
+--------------------------------------
+--------------------------------------
+Bangalore Belgaum
+--------------------------------------
+Final Loaded Cars at Hyderabad :
+--------------------------------------
+Hyderabad Kolkata
+P3Hyderabad2 5
+P3Hyderabad1 1
+--------------------------------------
+Final Loaded Cars at Lucknow :
+Final Loaded Cars at Nagpur :
+--------------------------------------
+Nagpur Ambala
+P1Nagpur2 5
+P1Nagpur1 1
+--------------------------------------
+--------------------------------------
+Nagpur Mangalore
+P2Nagpur1 1
+--------------------------------------
+Final Loaded Cars at Agra :
+--------------------------------------
+Agra Kanpur
+P1Agra4 10
+P1Agra1 5
+--------------------------------------
+--------------------------------------
+Agra Kanpur
+P1Agra2 3
+P1Agra3 2
+--------------------------------------
+--------------------------------------
+Agra Bangalore
+--------------------------------------
+--------------------------------------
+Agra Nellore
+P3Agra1 8
+P3Agra4 5
+--------------------------------------
+--------------------------------------
+Agra Nellore
+P3Agra2 4
+P3Agra3 3
+--------------------------------------
+Final Loaded Cars at Faridabad :
+--------------------------------------
+Faridabad Kolkata
+P1Faridabad1 2
+--------------------------------------
+--------------------------------------
+Faridabad Ambala
+--------------------------------------
+--------------------------------------
+Faridabad Ambala
+--------------------------------------
+--------------------------------------
+Faridabad Kanpur
+P2Faridabad1 10
+P2Faridabad2 9
+--------------------------------------
+--------------------------------------
+Faridabad Kanpur
+P2Faridabad3 7
+P2Faridabad4 3
+--------------------------------------
+Final Loaded Cars at Kolkata :
+--------------------------------------
+Kolkata Belgaum
+--------------------------------------
+--------------------------------------
+Kolkata Belgaum
+--------------------------------------
+--------------------------------------
+Kolkata Visakhapatnam
+--------------------------------------
+--------------------------------------
+Kolkata Visakhapatnam
+--------------------------------------
+--------------------------------------
+Kolkata Bangalore
+P3Kolkata1 6
+--------------------------------------
+Final Loaded Cars at Kanpur :
+--------------------------------------
+Kanpur Ambala
+P2Kanpur3 8
+P2Kanpur4 6
+--------------------------------------
+--------------------------------------
+Kanpur Ambala
+P2Kanpur2 6
+P2Kanpur1 2
+--------------------------------------
+Final Loaded Cars at Visakhapatnam :
+--------------------------------------
+Visakhapatnam Hyderabad
+--------------------------------------
+--------------------------------------
+Visakhapatnam Hyderabad
+--------------------------------------
+Final Loaded Cars at Jamshedpur :
+--------------------------------------
+Jamshedpur Bangalore
+P3Jamshedpur2 10
+P3Jamshedpur3 10
+--------------------------------------
+--------------------------------------
+Jamshedpur Bangalore
+P3Jamshedpur1 7
+--------------------------------------
+Final Loaded Cars at Rohtak :
+Final Loaded Cars at Chennai :
+--------------------------------------
+Chennai Nellore
+P1Chennai3 9
+P1Chennai1 7
+--------------------------------------
+--------------------------------------
+Chennai Nellore
+P1Chennai2 6
+--------------------------------------
+Final Loaded Cars at Ludhiana :
+--------------------------------------
+Ludhiana Jaipur
+P2Ludhiana1 9
+P2Ludhiana4 5
+--------------------------------------
+--------------------------------------
+Ludhiana Jaipur
+P2Ludhiana3 5
+P2Ludhiana2 5
+--------------------------------------
+Final Loaded Cars at Ambala :
+--------------------------------------
+Ambala Mangalore
+P1Ambala1 2
+--------------------------------------
+Final Loaded Cars at Bhopal :
+Final Loaded Cars at Vadodara :
+--------------------------------------
+Vadodara Faridabad
+P1Vadodara3 9
+P1Vadodara2 6
+--------------------------------------
+--------------------------------------
+Vadodara Faridabad
+P1Vadodara1 5
+--------------------------------------
+--------------------------------------
+Vadodara Surat
+P3Vadodara2 6
+P3Vadodara3 4
+--------------------------------------
+--------------------------------------
+Vadodara Surat
+P3Vadodara1 4
+--------------------------------------
+--------------------------------------
+Vadodara Kanpur
+P3Vadodara2 10
+P3Vadodara4 6
+--------------------------------------
+--------------------------------------
+Vadodara Kanpur
+P3Vadodara1 5
+P3Vadodara3 1
+--------------------------------------
+---------------------------------------------------
+Mumbai
+{'Patna': [<mmm.FreightCar object at 0x000001C31B5C9E10>, <mmm.FreightCar object at 0x000001C31B5C9E10>, <mmm.FreightCar object at 0x000001C31B5C9E10>, <mmm.FreightCar object at 0x000001C31B5C9E10>]}
+ Destination : Patna 
+4
+Searching for Bfs link from Mumbai  to Patna
+Next Link : Patna
+Surat
+{'Belgaum': [<mmm.FreightCar object at 0x000001C31B5CC050>, <mmm.FreightCar object at 0x000001C31B5CC090>, <mmm.FreightCar object at 0x000001C31B5CC050>, <mmm.FreightCar object at 0x000001C31B5CC090>, <mmm.FreightCar object at 0x000001C31B5CC050>, <mmm.FreightCar object at 0x000001C31B5CC090>]}
+ Destination : Belgaum 
+6
+Searching for Bfs link from Surat  to Belgaum
+Next Link : Delhi
+Pune
+{'Delhi': [<mmm.FreightCar object at 0x000001C31B5CC0D0>, <mmm.FreightCar object at 0x000001C31B5CC0D0>, <mmm.FreightCar object at 0x000001C31B5CC0D0>], 'Lucknow': [<mmm.FreightCar object at 0x000001C31B5CEF50>, <mmm.FreightCar object at 0x000001C31B5CD210>, <mmm.FreightCar object at 0x000001C31B5CEF50>, <mmm.FreightCar object at 0x000001C31B5CD210>]}
+ Destination : Delhi 
+3
+Searching for Bfs link from Pune  to Delhi
+Next Link : Delhi
+ Destination : Lucknow 
+4
+Searching for Bfs link from Pune  to Lucknow
+Next Link : Bangalore
+Patna
+{}
+Nashik
+{'Vadodara': [<mmm.FreightCar object at 0x000001C31B5CCED0>, <mmm.FreightCar object at 0x000001C31B5CDA90>, <mmm.FreightCar object at 0x000001C31B5CCED0>, <mmm.FreightCar object at 0x000001C31B5CDA90>]}
+ Destination : Vadodara 
+4
+Searching for Bfs link from Nashik  to Vadodara
+Next Link : Vadodara
+Nellore
+{}
+Tirupati
+{'Pune': [<mmm.FreightCar object at 0x000001C31B5C9ED0>, <mmm.FreightCar object at 0x000001C31B5C9ED0>, <mmm.FreightCar object at 0x000001C31B5C9ED0>, <mmm.FreightCar object at 0x000001C31B5C9ED0>], 'Bhopal': [<mmm.FreightCar object at 0x000001C31B5C9F90>, <mmm.FreightCar object at 0x000001C31B5CA010>, <mmm.FreightCar object at 0x000001C31B5C9F90>, <mmm.FreightCar object at 0x000001C31B5CA010>, <mmm.FreightCar object at 0x000001C31B5C9F90>, <mmm.FreightCar object at 0x000001C31B5CA010>, <mmm.FreightCar object at 0x000001C31B5C9F90>, <mmm.FreightCar object at 0x000001C31B5CA010>]}
+ Destination : Pune 
+4
+Searching for Bfs link from Tirupati  to Pune
+Next Link : Mumbai
+ Destination : Bhopal 
+8
+Searching for Bfs link from Tirupati  to Bhopal
+Next Link : Kolkata
+Delhi
+{}
+Ahmedabad
+{'Bangalore': [<mmm.FreightCar object at 0x000001C31B5CD410>, <mmm.FreightCar object at 0x000001C31B5CD410>]}
+ Destination : Bangalore 
+2
+Searching for Bfs link from Ahmedabad  to Bangalore
+Next Link : Nagpur
+Jaipur
+{'Nagpur': [<mmm.FreightCar object at 0x000001C31B5CC110>, <mmm.FreightCar object at 0x000001C31B5CC150>, <mmm.FreightCar object at 0x000001C31B5CC110>, <mmm.FreightCar object at 0x000001C31B5CC150>, <mmm.FreightCar object at 0x000001C31B5CC110>, <mmm.FreightCar object at 0x000001C31B5CC150>]}
+ Destination : Nagpur 
+6
+Searching for Bfs link from Jaipur  to Nagpur
+Next Link : Jamshedpur
+Madurai
+{'Pune': [<mmm.FreightCar object at 0x000001C31B5CA0D0>, <mmm.FreightCar object at 0x000001C31B5CA0D0>, <mmm.FreightCar object at 0x000001C31B5CA0D0>, <mmm.FreightCar object at 0x000001C31B5CA0D0>]}
+ Destination : Pune 
+4
+Searching for Bfs link from Madurai  to Pune
+Next Link : Delhi
+Jammu
+{'Lucknow': [<mmm.FreightCar object at 0x000001C31B5CA190>, <mmm.FreightCar object at 0x000001C31B5CA250>, <mmm.FreightCar object at 0x000001C31B5CA190>, <mmm.FreightCar object at 0x000001C31B5CA250>, <mmm.FreightCar object at 0x000001C31B5CA190>, <mmm.FreightCar object at 0x000001C31B5CA250>, <mmm.FreightCar object at 0x000001C31B5CA190>, <mmm.FreightCar object at 0x000001C31B5CA250>], 'Rohtak': [<mmm.FreightCar object at 0x000001C31B5CC190>, <mmm.FreightCar object at 0x000001C31B5CC190>, <mmm.FreightCar object at 0x000001C31B5CC190>], 'Kolkata': [<mmm.FreightCar object at 0x000001C31B5CCF50>, <mmm.FreightCar object at 0x000001C31B5CCF50>]}
+ Destination : Lucknow 
+8
+Searching for Bfs link from Jammu  to Lucknow
+Next Link : Bangalore
+ Destination : Rohtak 
+3
+Searching for Bfs link from Jammu  to Rohtak
+Next Link : Surat
+ Destination : Kolkata 
+2
+Searching for Bfs link from Jammu  to Kolkata
+Next Link : Kolkata
+Belgaum
+{}
+Mangalore
+{'Ludhiana': [<mmm.FreightCar object at 0x000001C31B5CCC90>, <mmm.FreightCar object at 0x000001C31B5CCC90>], 'Bangalore': [<mmm.FreightCar object at 0x000001C31B5CD310>, <mmm.FreightCar object at 0x000001C31B5CD310>]}
+ Destination : Ludhiana 
+2
+Searching for Bfs link from Mangalore  to Ludhiana
+Next Link : Chennai
+ Destination : Bangalore 
+2
+Searching for Bfs link from Mangalore  to Bangalore
+Next Link : Bangalore
+Bangalore
+{'Pune': [<mmm.FreightCar object at 0x000001C31B5CA2D0>, <mmm.FreightCar object at 0x000001C31B5CA2D0>, <mmm.FreightCar object at 0x000001C31B5CA2D0>, <mmm.FreightCar object at 0x000001C31B5CA2D0>], 'Mangalore': [<mmm.FreightCar object at 0x000001C31B5CA390>, <mmm.FreightCar object at 0x000001C31B5CA390>, <mmm.FreightCar object at 0x000001C31B5CA390>, <mmm.FreightCar object at 0x000001C31B5CA390>], 'Belgaum': [<mmm.FreightCar object at 0x000001C31B5CDAD0>, <mmm.FreightCar object at 0x000001C31B5CF790>, <mmm.FreightCar object at 0x000001C31B5CDAD0>, <mmm.FreightCar object at 0x000001C31B5CF790>]}
+ Destination : Pune 
+4
+Searching for Bfs link from Bangalore  to Pune
+Next Link : Pune
+ Destination : Mangalore 
+4
+Searching for Bfs link from Bangalore  to Mangalore
+Next Link : Mangalore
+ Destination : Belgaum 
+4
+Searching for Bfs link from Bangalore  to Belgaum
+Next Link : Belgaum
+Hyderabad
+{'Kolkata': [<mmm.FreightCar object at 0x000001C31B5CDD90>, <mmm.FreightCar object at 0x000001C31B5CDD90>]}
+ Destination : Kolkata 
+2
+Searching for Bfs link from Hyderabad  to Kolkata
+Next Link : Kolkata
+Lucknow
+{}
+Nagpur
+{'Ambala': [<mmm.FreightCar object at 0x000001C31B5CA450>, <mmm.FreightCar object at 0x000001C31B5CA450>, <mmm.FreightCar object at 0x000001C31B5CA450>, <mmm.FreightCar object at 0x000001C31B5CA450>], 'Mangalore': [<mmm.FreightCar object at 0x000001C31B5CC1D0>, <mmm.FreightCar object at 0x000001C31B5CC1D0>, <mmm.FreightCar object at 0x000001C31B5CC1D0>]}
+ Destination : Ambala 
+4
+Searching for Bfs link from Nagpur  to Ambala
+Next Link : Jammu
+ Destination : Mangalore 
+3
+Searching for Bfs link from Nagpur  to Mangalore
+Next Link : Bangalore
+Agra
+{'Kanpur': [<mmm.FreightCar object at 0x000001C31B5CA510>, <mmm.FreightCar object at 0x000001C31B5CA5D0>, <mmm.FreightCar object at 0x000001C31B5CA510>, <mmm.FreightCar object at 0x000001C31B5CA5D0>, <mmm.FreightCar object at 0x000001C31B5CA510>, <mmm.FreightCar object at 0x000001C31B5CA5D0>, <mmm.FreightCar object at 0x000001C31B5CA510>, <mmm.FreightCar object at 0x000001C31B5CA5D0>], 'Bangalore': [<mmm.FreightCar object at 0x000001C31B5CC210>, <mmm.FreightCar object at 0x000001C31B5CC210>, <mmm.FreightCar object at 0x000001C31B5CC210>], 'Nellore': [<mmm.FreightCar object at 0x000001C31B5CD490>, <mmm.FreightCar object at 0x000001C31B5CEA10>, <mmm.FreightCar object at 0x000001C31B5CD490>, <mmm.FreightCar object at 0x000001C31B5CEA10>]}
+ Destination : Kanpur 
+8
+Searching for Bfs link from Agra  to Kanpur
+Next Link : Bangalore
+ Destination : Bangalore 
+3
+Searching for Bfs link from Agra  to Bangalore
+Next Link : Bangalore
+ Destination : Nellore 
+4
+Searching for Bfs link from Agra  to Nellore
+Next Link : Jaipur
+Faridabad
+{'Kolkata': [<mmm.FreightCar object at 0x000001C31B5CA650>, <mmm.FreightCar object at 0x000001C31B5CA650>, <mmm.FreightCar object at 0x000001C31B5CA650>, <mmm.FreightCar object at 0x000001C31B5CA650>], 'Ambala': [<mmm.FreightCar object at 0x000001C31B5CC250>, <mmm.FreightCar object at 0x000001C31B5CC290>, <mmm.FreightCar object at 0x000001C31B5CC250>, <mmm.FreightCar object at 0x000001C31B5CC290>, <mmm.FreightCar object at 0x000001C31B5CC250>, <mmm.FreightCar object at 0x000001C31B5CC290>], 'Kanpur': [<mmm.FreightCar object at 0x000001C31B5CC2D0>, <mmm.FreightCar object at 0x000001C31B5CC310>, <mmm.FreightCar object at 0x000001C31B5CC2D0>, <mmm.FreightCar object at 0x000001C31B5CC310>, <mmm.FreightCar object at 0x000001C31B5CC2D0>, <mmm.FreightCar object at 0x000001C31B5CC310>]}
+ Destination : Kolkata 
+4
+Searching for Bfs link from Faridabad  to Kolkata
+Next Link : Pune
+ Destination : Ambala 
+6
+Searching for Bfs link from Faridabad  to Ambala
+Next Link : Ambala
+ Destination : Kanpur 
+6
+Searching for Bfs link from Faridabad  to Kanpur
+Next Link : Pune
+Kolkata
+{'Belgaum': [<mmm.FreightCar object at 0x000001C31B5CA710>, <mmm.FreightCar object at 0x000001C31B5CA7D0>, <mmm.FreightCar object at 0x000001C31B5CA710>, <mmm.FreightCar object at 0x000001C31B5CA7D0>, <mmm.FreightCar object at 0x000001C31B5CA710>, <mmm.FreightCar object at 0x000001C31B5CA7D0>, <mmm.FreightCar object at 0x000001C31B5CA710>, <mmm.FreightCar object at 0x000001C31B5CA7D0>], 'Visakhapatnam': [<mmm.FreightCar object at 0x000001C31B5CC390>, <mmm.FreightCar object at 0x000001C31B5CC3D0>, <mmm.FreightCar object at 0x000001C31B5CC390>, <mmm.FreightCar object at 0x000001C31B5CC3D0>, <mmm.FreightCar object at 0x000001C31B5CC390>, <mmm.FreightCar object at 0x000001C31B5CC3D0>], 'Bangalore': [<mmm.FreightCar object at 0x000001C31B5CDB10>, <mmm.FreightCar object at 0x000001C31B5CDB10>]}
+ Destination : Belgaum 
+8
+Searching for Bfs link from Kolkata  to Belgaum
+Next Link : Belgaum
+ Destination : Visakhapatnam 
+6
+Searching for Bfs link from Kolkata  to Visakhapatnam
+Next Link : Visakhapatnam
+ Destination : Bangalore 
+2
+Searching for Bfs link from Kolkata  to Bangalore
+Next Link : Hyderabad
+Kanpur
+{'Ambala': [<mmm.FreightCar object at 0x000001C31B5CC410>, <mmm.FreightCar object at 0x000001C31B5CC450>, <mmm.FreightCar object at 0x000001C31B5CC410>, <mmm.FreightCar object at 0x000001C31B5CC450>, <mmm.FreightCar object at 0x000001C31B5CC410>, <mmm.FreightCar object at 0x000001C31B5CC450>]}
+ Destination : Ambala 
+6
+Searching for Bfs link from Kanpur  to Ambala
+Next Link : Kolkata
+Visakhapatnam
+{'Hyderabad': [<mmm.FreightCar object at 0x000001C31B5CD590>, <mmm.FreightCar object at 0x000001C31B5CDE10>, <mmm.FreightCar object at 0x000001C31B5CD590>, <mmm.FreightCar object at 0x000001C31B5CDE10>]}
+ Destination : Hyderabad 
+4
+Searching for Bfs link from Visakhapatnam  to Hyderabad
+Next Link : Hyderabad
+Jamshedpur
+{'Bangalore': [<mmm.FreightCar object at 0x000001C31B5CD050>, <mmm.FreightCar object at 0x000001C31B5CDF50>, <mmm.FreightCar object at 0x000001C31B5CD050>, <mmm.FreightCar object at 0x000001C31B5CDF50>]}
+ Destination : Bangalore 
+4
+Searching for Bfs link from Jamshedpur  to Bangalore
+Next Link : Nagpur
+Rohtak
+{}
+Chennai
+{'Nellore': [<mmm.FreightCar object at 0x000001C31B5CA850>, <mmm.FreightCar object at 0x000001C31B5CA910>, <mmm.FreightCar object at 0x000001C31B5CA850>, <mmm.FreightCar object at 0x000001C31B5CA910>, <mmm.FreightCar object at 0x000001C31B5CA850>, <mmm.FreightCar object at 0x000001C31B5CA910>, <mmm.FreightCar object at 0x000001C31B5CA850>, <mmm.FreightCar object at 0x000001C31B5CA910>]}
+ Destination : Nellore 
+8
+Searching for Bfs link from Chennai  to Nellore
+Next Link : Faridabad
+Ludhiana
+{'Jaipur': [<mmm.FreightCar object at 0x000001C31B5CC510>, <mmm.FreightCar object at 0x000001C31B5CC550>, <mmm.FreightCar object at 0x000001C31B5CC510>, <mmm.FreightCar object at 0x000001C31B5CC550>, <mmm.FreightCar object at 0x000001C31B5CC510>, <mmm.FreightCar object at 0x000001C31B5CC550>]}
+ Destination : Jaipur 
+6
+Searching for Bfs link from Ludhiana  to Jaipur
+Next Link : Patna
+Ambala
+{'Mangalore': [<mmm.FreightCar object at 0x000001C31B5CA990>, <mmm.FreightCar object at 0x000001C31B5CA990>, <mmm.FreightCar object at 0x000001C31B5CA990>, <mmm.FreightCar object at 0x000001C31B5CA990>]}
+ Destination : Mangalore 
+4
+Searching for Bfs link from Ambala  to Mangalore
+Next Link : Chennai
+Bhopal
+{}
+Vadodara
+{'Faridabad': [<mmm.FreightCar object at 0x000001C31B5CAA50>, <mmm.FreightCar object at 0x000001C31B5CAB10>, <mmm.FreightCar object at 0x000001C31B5CAA50>, <mmm.FreightCar object at 0x000001C31B5CAB10>, <mmm.FreightCar object at 0x000001C31B5CAA50>, <mmm.FreightCar object at 0x000001C31B5CAB10>, <mmm.FreightCar object at 0x000001C31B5CAA50>, <mmm.FreightCar object at 0x000001C31B5CAB10>], 'Surat': [<mmm.FreightCar object at 0x000001C31B5CDF90>, <mmm.FreightCar object at 0x000001C31B5CDFD0>, <mmm.FreightCar object at 0x000001C31B5CDF90>, <mmm.FreightCar object at 0x000001C31B5CDFD0>], 'Kanpur': [<mmm.FreightCar object at 0x000001C31B5CE010>, <mmm.FreightCar object at 0x000001C31B5CE090>, <mmm.FreightCar object at 0x000001C31B5CE010>, <mmm.FreightCar object at 0x000001C31B5CE090>]}
+ Destination : Faridabad 
+8
+Searching for Bfs link from Vadodara  to Faridabad
+Next Link : Nellore
+ Destination : Surat 
+4
+Searching for Bfs link from Vadodara  to Surat
+Next Link : Nellore
+ Destination : Kanpur 
+4
+Searching for Bfs link from Vadodara  to Kanpur
+Next Link : Nagpur
+---------------------------------------------------
+At Mumbai, outbound to Patna
+--------------------------------------
+Origin :  Mumbai Destination Patna
+--------------------------------------
+--------------------------------------
+Origin :  Mumbai Destination Patna
+--------------------------------------
+--------------------------------------
+Origin :  Mumbai Destination Patna
+--------------------------------------
+--------------------------------------
+Origin :  Mumbai Destination Patna
+--------------------------------------
+--------------------------------------
+Origin :  Mumbai Destination Patna
+--------------------------------------
+--------------------------------------
+Origin :  Mumbai Destination Patna
+--------------------------------------
+--------------------------------------
+Origin :  Mumbai Destination Patna
+--------------------------------------
+--------------------------------------
+Origin :  Mumbai Destination Patna
+--------------------------------------
+--------------------------------------
+Origin :  Mumbai Destination Patna
+--------------------------------------
+At Surat, outbound to Delhi
+--------------------------------------
+Origin :  Surat Destination Belgaum
+P2Surat2 8
+P2Surat3 8
+--------------------------------------
+--------------------------------------
+Origin :  Surat Destination Belgaum
+P2Surat1 3
+--------------------------------------
+--------------------------------------
+Origin :  Surat Destination Belgaum
+P2Surat2 8
+P2Surat3 8
+--------------------------------------
+--------------------------------------
+Origin :  Surat Destination Belgaum
+P2Surat1 3
+--------------------------------------
+--------------------------------------
+Origin :  Surat Destination Belgaum
+P2Surat2 8
+P2Surat3 8
+--------------------------------------
+--------------------------------------
+Origin :  Surat Destination Belgaum
+P2Surat1 3
+--------------------------------------
+--------------------------------------
+Origin :  Surat Destination Belgaum
+P2Surat2 8
+P2Surat3 8
+--------------------------------------
+--------------------------------------
+Origin :  Surat Destination Belgaum
+P2Surat1 3
+--------------------------------------
+--------------------------------------
+Origin :  Surat Destination Belgaum
+P2Surat2 8
+P2Surat3 8
+--------------------------------------
+--------------------------------------
+Origin :  Surat Destination Belgaum
+P2Surat1 3
+--------------------------------------
+--------------------------------------
+Origin :  Surat Destination Belgaum
+P2Surat2 8
+P2Surat3 8
+--------------------------------------
+--------------------------------------
+Origin :  Surat Destination Belgaum
+P2Surat1 3
+--------------------------------------
+At Pune, outbound to Delhi
+--------------------------------------
+Origin :  Pune Destination Delhi
+--------------------------------------
+--------------------------------------
+Origin :  Pune Destination Delhi
+--------------------------------------
+--------------------------------------
+Origin :  Pune Destination Delhi
+--------------------------------------
+--------------------------------------
+Origin :  Pune Destination Delhi
+--------------------------------------
+--------------------------------------
+Origin :  Pune Destination Delhi
+--------------------------------------
+At Pune, outbound to Bangalore
+--------------------------------------
+Origin :  Pune Destination Lucknow
+P3Pune1 5
+P3Pune2 5
+--------------------------------------
+--------------------------------------
+Origin :  Pune Destination Lucknow
+P3Pune3 3
+--------------------------------------
+--------------------------------------
+Origin :  Pune Destination Lucknow
+P3Pune1 5
+P3Pune2 5
+--------------------------------------
+--------------------------------------
+Origin :  Pune Destination Lucknow
+P3Pune3 3
+--------------------------------------
+--------------------------------------
+Origin :  Pune Destination Lucknow
+P3Pune1 5
+P3Pune2 5
+--------------------------------------
+--------------------------------------
+Origin :  Pune Destination Lucknow
+P3Pune3 3
+--------------------------------------
+At Nashik, outbound to Vadodara
+--------------------------------------
+Origin :  Nashik Destination Vadodara
+--------------------------------------
+--------------------------------------
+Origin :  Nashik Destination Vadodara
+--------------------------------------
+--------------------------------------
+Origin :  Nashik Destination Vadodara
+--------------------------------------
+--------------------------------------
+Origin :  Nashik Destination Vadodara
+--------------------------------------
+--------------------------------------
+Origin :  Nashik Destination Vadodara
+--------------------------------------
+--------------------------------------
+Origin :  Nashik Destination Vadodara
+--------------------------------------
+At Tirupati, outbound to Kolkata
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati1 8
+P1Tirupati3 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati2 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati1 8
+P1Tirupati3 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati2 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati1 8
+P1Tirupati3 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati2 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati1 8
+P1Tirupati3 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati2 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati1 8
+P1Tirupati3 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati2 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati1 8
+P1Tirupati3 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati2 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati1 8
+P1Tirupati3 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati2 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati1 8
+P1Tirupati3 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati2 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati1 8
+P1Tirupati3 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati2 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati1 8
+P1Tirupati3 2
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Bhopal
+P1Tirupati2 2
+--------------------------------------
+At Tirupati, outbound to Mumbai
+--------------------------------------
+Origin :  Tirupati Destination Pune
+P1Tirupati1 3
+P1Tirupati2 3
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Pune
+P1Tirupati1 3
+P1Tirupati2 3
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Pune
+P1Tirupati1 3
+P1Tirupati2 3
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Pune
+P1Tirupati1 3
+P1Tirupati2 3
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Pune
+P1Tirupati1 3
+P1Tirupati2 3
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Pune
+P1Tirupati1 3
+P1Tirupati2 3
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Pune
+P1Tirupati1 3
+P1Tirupati2 3
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Pune
+P1Tirupati1 3
+P1Tirupati2 3
+--------------------------------------
+--------------------------------------
+Origin :  Tirupati Destination Pune
+P1Tirupati1 3
+P1Tirupati2 3
+--------------------------------------
+At Ahmedabad, outbound to Nagpur
+--------------------------------------
+Origin :  Ahmedabad Destination Bangalore
+P3Ahmedabad1 1
+--------------------------------------
+--------------------------------------
+Origin :  Ahmedabad Destination Bangalore
+P3Ahmedabad1 1
+--------------------------------------
+At Jaipur, outbound to Jamshedpur
+--------------------------------------
+Origin :  Jaipur Destination Nagpur
+P2Jaipur2 7
+P2Jaipur3 7
+--------------------------------------
+--------------------------------------
+Origin :  Jaipur Destination Nagpur
+P2Jaipur1 1
+--------------------------------------
+--------------------------------------
+Origin :  Jaipur Destination Nagpur
+P2Jaipur2 7
+P2Jaipur3 7
+--------------------------------------
+--------------------------------------
+Origin :  Jaipur Destination Nagpur
+P2Jaipur1 1
+--------------------------------------
+--------------------------------------
+Origin :  Jaipur Destination Nagpur
+P2Jaipur2 7
+P2Jaipur3 7
+--------------------------------------
+--------------------------------------
+Origin :  Jaipur Destination Nagpur
+P2Jaipur1 1
+--------------------------------------
+--------------------------------------
+Origin :  Jaipur Destination Nagpur
+P2Jaipur2 7
+P2Jaipur3 7
+--------------------------------------
+--------------------------------------
+Origin :  Jaipur Destination Nagpur
+P2Jaipur1 1
+--------------------------------------
+--------------------------------------
+Origin :  Jaipur Destination Nagpur
+P2Jaipur2 7
+P2Jaipur3 7
+--------------------------------------
+--------------------------------------
+Origin :  Jaipur Destination Nagpur
+P2Jaipur1 1
+--------------------------------------
+--------------------------------------
+Origin :  Jaipur Destination Nagpur
+P2Jaipur2 7
+P2Jaipur3 7
+--------------------------------------
+--------------------------------------
+Origin :  Jaipur Destination Nagpur
+P2Jaipur1 1
+--------------------------------------
+At Madurai, outbound to Delhi
+--------------------------------------
+Origin :  Madurai Destination Pune
+P1Madurai1 9
+--------------------------------------
+--------------------------------------
+Origin :  Madurai Destination Pune
+P1Madurai1 9
+--------------------------------------
+--------------------------------------
+Origin :  Madurai Destination Pune
+P1Madurai1 9
+--------------------------------------
+--------------------------------------
+Origin :  Madurai Destination Pune
+P1Madurai1 9
+--------------------------------------
+--------------------------------------
+Origin :  Madurai Destination Pune
+P1Madurai1 9
+--------------------------------------
+--------------------------------------
+Origin :  Madurai Destination Pune
+P1Madurai1 9
+--------------------------------------
+--------------------------------------
+Origin :  Madurai Destination Pune
+P1Madurai1 9
+--------------------------------------
+--------------------------------------
+Origin :  Madurai Destination Pune
+P1Madurai1 9
+--------------------------------------
+--------------------------------------
+Origin :  Madurai Destination Pune
+P1Madurai1 9
+--------------------------------------
+At Jammu, outbound to Bangalore
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu1 8
+P1Jammu2 8
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu3 5
+P1Jammu4 4
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu1 8
+P1Jammu2 8
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu3 5
+P1Jammu4 4
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu1 8
+P1Jammu2 8
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu3 5
+P1Jammu4 4
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu1 8
+P1Jammu2 8
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu3 5
+P1Jammu4 4
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu1 8
+P1Jammu2 8
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu3 5
+P1Jammu4 4
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu1 8
+P1Jammu2 8
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu3 5
+P1Jammu4 4
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu1 8
+P1Jammu2 8
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu3 5
+P1Jammu4 4
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu1 8
+P1Jammu2 8
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu3 5
+P1Jammu4 4
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu1 8
+P1Jammu2 8
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu3 5
+P1Jammu4 4
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu1 8
+P1Jammu2 8
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Lucknow
+P1Jammu3 5
+P1Jammu4 4
+--------------------------------------
+At Jammu, outbound to Surat
+--------------------------------------
+Origin :  Jammu Destination Rohtak
+P2Jammu1 2
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Rohtak
+P2Jammu1 2
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Rohtak
+P2Jammu1 2
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Rohtak
+P2Jammu1 2
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Rohtak
+P2Jammu1 2
+--------------------------------------
+At Jammu, outbound to Kolkata
+--------------------------------------
+Origin :  Jammu Destination Kolkata
+P3Jammu1 10
+P3Jammu2 7
+--------------------------------------
+--------------------------------------
+Origin :  Jammu Destination Kolkata
+P3Jammu1 10
+P3Jammu2 7
+--------------------------------------
+At Mangalore, outbound to Chennai
+--------------------------------------
+Origin :  Mangalore Destination Ludhiana
+P3Mangalore1 8
+P3Mangalore2 2
+--------------------------------------
+--------------------------------------
+Origin :  Mangalore Destination Ludhiana
+P3Mangalore1 8
+P3Mangalore2 2
+--------------------------------------
+At Mangalore, outbound to Bangalore
+--------------------------------------
+Origin :  Mangalore Destination Bangalore
+P3Mangalore1 2
+--------------------------------------
+--------------------------------------
+Origin :  Mangalore Destination Bangalore
+P3Mangalore1 2
+--------------------------------------
+At Bangalore, outbound to Pune
+--------------------------------------
+Origin :  Bangalore Destination Pune
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Pune
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Pune
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Pune
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Pune
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Pune
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Pune
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Pune
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Pune
+--------------------------------------
+At Bangalore, outbound to Mangalore
+--------------------------------------
+Origin :  Bangalore Destination Mangalore
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Mangalore
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Mangalore
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Mangalore
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Mangalore
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Mangalore
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Mangalore
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Mangalore
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Mangalore
+--------------------------------------
+At Bangalore, outbound to Belgaum
+--------------------------------------
+Origin :  Bangalore Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Bangalore Destination Belgaum
+--------------------------------------
+At Hyderabad, outbound to Kolkata
+--------------------------------------
+Origin :  Hyderabad Destination Kolkata
+P3Hyderabad2 5
+P3Hyderabad1 1
+--------------------------------------
+--------------------------------------
+Origin :  Hyderabad Destination Kolkata
+P3Hyderabad2 5
+P3Hyderabad1 1
+--------------------------------------
+At Nagpur, outbound to Jammu
+--------------------------------------
+Origin :  Nagpur Destination Ambala
+P1Nagpur2 5
+P1Nagpur1 1
+--------------------------------------
+--------------------------------------
+Origin :  Nagpur Destination Ambala
+P1Nagpur2 5
+P1Nagpur1 1
+--------------------------------------
+--------------------------------------
+Origin :  Nagpur Destination Ambala
+P1Nagpur2 5
+P1Nagpur1 1
+--------------------------------------
+--------------------------------------
+Origin :  Nagpur Destination Ambala
+P1Nagpur2 5
+P1Nagpur1 1
+--------------------------------------
+--------------------------------------
+Origin :  Nagpur Destination Ambala
+P1Nagpur2 5
+P1Nagpur1 1
+--------------------------------------
+--------------------------------------
+Origin :  Nagpur Destination Ambala
+P1Nagpur2 5
+P1Nagpur1 1
+--------------------------------------
+--------------------------------------
+Origin :  Nagpur Destination Ambala
+P1Nagpur2 5
+P1Nagpur1 1
+--------------------------------------
+--------------------------------------
+Origin :  Nagpur Destination Ambala
+P1Nagpur2 5
+P1Nagpur1 1
+--------------------------------------
+--------------------------------------
+Origin :  Nagpur Destination Ambala
+P1Nagpur2 5
+P1Nagpur1 1
+--------------------------------------
+At Nagpur, outbound to Bangalore
+--------------------------------------
+Origin :  Nagpur Destination Mangalore
+P2Nagpur1 1
+--------------------------------------
+--------------------------------------
+Origin :  Nagpur Destination Mangalore
+P2Nagpur1 1
+--------------------------------------
+--------------------------------------
+Origin :  Nagpur Destination Mangalore
+P2Nagpur1 1
+--------------------------------------
+--------------------------------------
+Origin :  Nagpur Destination Mangalore
+P2Nagpur1 1
+--------------------------------------
+--------------------------------------
+Origin :  Nagpur Destination Mangalore
+P2Nagpur1 1
+--------------------------------------
+At Agra, outbound to Bangalore
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra4 10
+P1Agra1 5
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra2 3
+P1Agra3 2
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra4 10
+P1Agra1 5
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra2 3
+P1Agra3 2
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra4 10
+P1Agra1 5
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra2 3
+P1Agra3 2
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra4 10
+P1Agra1 5
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra2 3
+P1Agra3 2
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra4 10
+P1Agra1 5
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra2 3
+P1Agra3 2
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra4 10
+P1Agra1 5
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra2 3
+P1Agra3 2
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Bangalore
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Bangalore
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra4 10
+P1Agra1 5
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra2 3
+P1Agra3 2
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra4 10
+P1Agra1 5
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra2 3
+P1Agra3 2
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra4 10
+P1Agra1 5
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra2 3
+P1Agra3 2
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra4 10
+P1Agra1 5
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Kanpur
+P1Agra2 3
+P1Agra3 2
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Bangalore
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Bangalore
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Bangalore
+--------------------------------------
+At Agra, outbound to Jaipur
+--------------------------------------
+Origin :  Agra Destination Nellore
+P3Agra1 8
+P3Agra4 5
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Nellore
+P3Agra2 4
+P3Agra3 3
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Nellore
+P3Agra1 8
+P3Agra4 5
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Nellore
+P3Agra2 4
+P3Agra3 3
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Nellore
+P3Agra1 8
+P3Agra4 5
+--------------------------------------
+--------------------------------------
+Origin :  Agra Destination Nellore
+P3Agra2 4
+P3Agra3 3
+--------------------------------------
+At Faridabad, outbound to Pune
+--------------------------------------
+Origin :  Faridabad Destination Kolkata
+P1Faridabad1 2
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kolkata
+P1Faridabad1 2
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kanpur
+P2Faridabad1 10
+P2Faridabad2 9
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kanpur
+P2Faridabad3 7
+P2Faridabad4 3
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kolkata
+P1Faridabad1 2
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kolkata
+P1Faridabad1 2
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kolkata
+P1Faridabad1 2
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kanpur
+P2Faridabad1 10
+P2Faridabad2 9
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kanpur
+P2Faridabad3 7
+P2Faridabad4 3
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kanpur
+P2Faridabad1 10
+P2Faridabad2 9
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kanpur
+P2Faridabad3 7
+P2Faridabad4 3
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kolkata
+P1Faridabad1 2
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kolkata
+P1Faridabad1 2
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kolkata
+P1Faridabad1 2
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kolkata
+P1Faridabad1 2
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kanpur
+P2Faridabad1 10
+P2Faridabad2 9
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kanpur
+P2Faridabad3 7
+P2Faridabad4 3
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kanpur
+P2Faridabad1 10
+P2Faridabad2 9
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kanpur
+P2Faridabad3 7
+P2Faridabad4 3
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kanpur
+P2Faridabad1 10
+P2Faridabad2 9
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Kanpur
+P2Faridabad3 7
+P2Faridabad4 3
+--------------------------------------
+At Faridabad, outbound to Ambala
+--------------------------------------
+Origin :  Faridabad Destination Ambala
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Ambala
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Ambala
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Ambala
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Ambala
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Ambala
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Ambala
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Ambala
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Ambala
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Ambala
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Ambala
+--------------------------------------
+--------------------------------------
+Origin :  Faridabad Destination Ambala
+--------------------------------------
+At Kolkata, outbound to Belgaum
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Belgaum
+--------------------------------------
+At Kolkata, outbound to Visakhapatnam
+--------------------------------------
+Origin :  Kolkata Destination Visakhapatnam
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Visakhapatnam
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Visakhapatnam
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Visakhapatnam
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Visakhapatnam
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Visakhapatnam
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Visakhapatnam
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Visakhapatnam
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Visakhapatnam
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Visakhapatnam
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Visakhapatnam
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Visakhapatnam
+--------------------------------------
+At Kolkata, outbound to Hyderabad
+--------------------------------------
+Origin :  Kolkata Destination Bangalore
+P3Kolkata1 6
+--------------------------------------
+--------------------------------------
+Origin :  Kolkata Destination Bangalore
+P3Kolkata1 6
+--------------------------------------
+At Kanpur, outbound to Kolkata
+--------------------------------------
+Origin :  Kanpur Destination Ambala
+P2Kanpur3 8
+P2Kanpur4 6
+--------------------------------------
+--------------------------------------
+Origin :  Kanpur Destination Ambala
+P2Kanpur2 6
+P2Kanpur1 2
+--------------------------------------
+--------------------------------------
+Origin :  Kanpur Destination Ambala
+P2Kanpur3 8
+P2Kanpur4 6
+--------------------------------------
+--------------------------------------
+Origin :  Kanpur Destination Ambala
+P2Kanpur2 6
+P2Kanpur1 2
+--------------------------------------
+--------------------------------------
+Origin :  Kanpur Destination Ambala
+P2Kanpur3 8
+P2Kanpur4 6
+--------------------------------------
+--------------------------------------
+Origin :  Kanpur Destination Ambala
+P2Kanpur2 6
+P2Kanpur1 2
+--------------------------------------
+--------------------------------------
+Origin :  Kanpur Destination Ambala
+P2Kanpur3 8
+P2Kanpur4 6
+--------------------------------------
+--------------------------------------
+Origin :  Kanpur Destination Ambala
+P2Kanpur2 6
+P2Kanpur1 2
+--------------------------------------
+--------------------------------------
+Origin :  Kanpur Destination Ambala
+P2Kanpur3 8
+P2Kanpur4 6
+--------------------------------------
+--------------------------------------
+Origin :  Kanpur Destination Ambala
+P2Kanpur2 6
+P2Kanpur1 2
+--------------------------------------
+--------------------------------------
+Origin :  Kanpur Destination Ambala
+P2Kanpur3 8
+P2Kanpur4 6
+--------------------------------------
+--------------------------------------
+Origin :  Kanpur Destination Ambala
+P2Kanpur2 6
+P2Kanpur1 2
+--------------------------------------
+At Visakhapatnam, outbound to Hyderabad
+--------------------------------------
+Origin :  Visakhapatnam Destination Hyderabad
+--------------------------------------
+--------------------------------------
+Origin :  Visakhapatnam Destination Hyderabad
+--------------------------------------
+--------------------------------------
+Origin :  Visakhapatnam Destination Hyderabad
+--------------------------------------
+--------------------------------------
+Origin :  Visakhapatnam Destination Hyderabad
+--------------------------------------
+--------------------------------------
+Origin :  Visakhapatnam Destination Hyderabad
+--------------------------------------
+--------------------------------------
+Origin :  Visakhapatnam Destination Hyderabad
+--------------------------------------
+At Jamshedpur, outbound to Nagpur
+--------------------------------------
+Origin :  Jamshedpur Destination Bangalore
+P3Jamshedpur2 10
+P3Jamshedpur3 10
+--------------------------------------
+--------------------------------------
+Origin :  Jamshedpur Destination Bangalore
+P3Jamshedpur1 7
+--------------------------------------
+--------------------------------------
+Origin :  Jamshedpur Destination Bangalore
+P3Jamshedpur2 10
+P3Jamshedpur3 10
+--------------------------------------
+--------------------------------------
+Origin :  Jamshedpur Destination Bangalore
+P3Jamshedpur1 7
+--------------------------------------
+--------------------------------------
+Origin :  Jamshedpur Destination Bangalore
+P3Jamshedpur2 10
+P3Jamshedpur3 10
+--------------------------------------
+--------------------------------------
+Origin :  Jamshedpur Destination Bangalore
+P3Jamshedpur1 7
+--------------------------------------
+At Chennai, outbound to Faridabad
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai3 9
+P1Chennai1 7
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai2 6
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai3 9
+P1Chennai1 7
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai2 6
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai3 9
+P1Chennai1 7
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai2 6
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai3 9
+P1Chennai1 7
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai2 6
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai3 9
+P1Chennai1 7
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai2 6
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai3 9
+P1Chennai1 7
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai2 6
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai3 9
+P1Chennai1 7
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai2 6
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai3 9
+P1Chennai1 7
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai2 6
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai3 9
+P1Chennai1 7
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai2 6
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai3 9
+P1Chennai1 7
+--------------------------------------
+--------------------------------------
+Origin :  Chennai Destination Nellore
+P1Chennai2 6
+--------------------------------------
+At Ludhiana, outbound to Patna
+--------------------------------------
+Origin :  Ludhiana Destination Jaipur
+P2Ludhiana1 9
+P2Ludhiana4 5
+--------------------------------------
+--------------------------------------
+Origin :  Ludhiana Destination Jaipur
+P2Ludhiana3 5
+P2Ludhiana2 5
+--------------------------------------
+--------------------------------------
+Origin :  Ludhiana Destination Jaipur
+P2Ludhiana1 9
+P2Ludhiana4 5
+--------------------------------------
+--------------------------------------
+Origin :  Ludhiana Destination Jaipur
+P2Ludhiana3 5
+P2Ludhiana2 5
+--------------------------------------
+--------------------------------------
+Origin :  Ludhiana Destination Jaipur
+P2Ludhiana1 9
+P2Ludhiana4 5
+--------------------------------------
+--------------------------------------
+Origin :  Ludhiana Destination Jaipur
+P2Ludhiana3 5
+P2Ludhiana2 5
+--------------------------------------
+--------------------------------------
+Origin :  Ludhiana Destination Jaipur
+P2Ludhiana1 9
+P2Ludhiana4 5
+--------------------------------------
+--------------------------------------
+Origin :  Ludhiana Destination Jaipur
+P2Ludhiana3 5
+P2Ludhiana2 5
+--------------------------------------
+--------------------------------------
+Origin :  Ludhiana Destination Jaipur
+P2Ludhiana1 9
+P2Ludhiana4 5
+--------------------------------------
+--------------------------------------
+Origin :  Ludhiana Destination Jaipur
+P2Ludhiana3 5
+P2Ludhiana2 5
+--------------------------------------
+--------------------------------------
+Origin :  Ludhiana Destination Jaipur
+P2Ludhiana1 9
+P2Ludhiana4 5
+--------------------------------------
+--------------------------------------
+Origin :  Ludhiana Destination Jaipur
+P2Ludhiana3 5
+P2Ludhiana2 5
+--------------------------------------
+At Ambala, outbound to Chennai
+--------------------------------------
+Origin :  Ambala Destination Mangalore
+P1Ambala1 2
+--------------------------------------
+--------------------------------------
+Origin :  Ambala Destination Mangalore
+P1Ambala1 2
+--------------------------------------
+--------------------------------------
+Origin :  Ambala Destination Mangalore
+P1Ambala1 2
+--------------------------------------
+--------------------------------------
+Origin :  Ambala Destination Mangalore
+P1Ambala1 2
+--------------------------------------
+--------------------------------------
+Origin :  Ambala Destination Mangalore
+P1Ambala1 2
+--------------------------------------
+--------------------------------------
+Origin :  Ambala Destination Mangalore
+P1Ambala1 2
+--------------------------------------
+--------------------------------------
+Origin :  Ambala Destination Mangalore
+P1Ambala1 2
+--------------------------------------
+--------------------------------------
+Origin :  Ambala Destination Mangalore
+P1Ambala1 2
+--------------------------------------
+--------------------------------------
+Origin :  Ambala Destination Mangalore
+P1Ambala1 2
+--------------------------------------
+At Vadodara, outbound to Nellore
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara3 9
+P1Vadodara2 6
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara1 5
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara3 9
+P1Vadodara2 6
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara1 5
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara3 9
+P1Vadodara2 6
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara1 5
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara3 9
+P1Vadodara2 6
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara1 5
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara3 9
+P1Vadodara2 6
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara1 5
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara3 9
+P1Vadodara2 6
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara1 5
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Surat
+P3Vadodara2 6
+P3Vadodara3 4
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Surat
+P3Vadodara1 4
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara3 9
+P1Vadodara2 6
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara1 5
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara3 9
+P1Vadodara2 6
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara1 5
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara3 9
+P1Vadodara2 6
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara1 5
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara3 9
+P1Vadodara2 6
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Faridabad
+P1Vadodara1 5
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Surat
+P3Vadodara2 6
+P3Vadodara3 4
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Surat
+P3Vadodara1 4
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Surat
+P3Vadodara2 6
+P3Vadodara3 4
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Surat
+P3Vadodara1 4
+--------------------------------------
+At Vadodara, outbound to Nagpur
+--------------------------------------
+Origin :  Vadodara Destination Kanpur
+P3Vadodara2 10
+P3Vadodara4 6
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Kanpur
+P3Vadodara1 5
+P3Vadodara3 1
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Kanpur
+P3Vadodara2 10
+P3Vadodara4 6
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Kanpur
+P3Vadodara1 5
+P3Vadodara3 1
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Kanpur
+P3Vadodara2 10
+P3Vadodara4 6
+--------------------------------------
+--------------------------------------
+Origin :  Vadodara Destination Kanpur
+P3Vadodara1 5
+P3Vadodara3 1
+--------------------------------------
+---------------------------------------------------
+Time tick: 4
+---------------------------------------------------
+Parcels delivered up to time tick: ['P1Bangalore1', 'P1Bangalore2', 'P1Mumbai1', 'P1Kolkata1', 'P1Kolkata2', 'P1Kolkata3', 'P2Pune1', 'P2Pune2', 'P2Agra1', 'P2Agra2', 'P2Kolkata1', 'P2Kolkata2', 'P2Kolkata3', 'P3Mangalore1', 'P3Hyderabad1', 'P3Hyderabad2', 'P3Jammu1', 'P3Jammu2', 'P3Bangalore1', 'P3Bangalore2', 'P3Bangalore3', 'P3Bangalore4', 'P3Nashik1', 'P3Nashik2', 'P3Nashik3', 'P3Visakhapatnam1', 'P3Visakhapatnam2', 'P3Visakhapatnam3']
+---------------------------------------------------
+State of parcels:
+P1Jammu1
+P1Jammu2
+P1Jammu3
+P1Jammu4
+P1Bangalore1
+P1Bangalore2
+P1Mumbai1
+P1Vadodara1
+P1Vadodara2
+P1Vadodara3
+P1Tirupati1
+P1Tirupati2
+P1Faridabad1
+P1Madurai1
+P1Chennai1
+P1Chennai2
+P1Chennai3
+P1Agra1
+P1Agra2
+P1Agra3
+P1Agra4
+P1Kolkata1
+P1Kolkata2
+P1Kolkata3
+P1Ambala1
+P1Tirupati3
+P1Nagpur1
+P1Nagpur2
+P2Faridabad1
+P2Faridabad2
+P2Faridabad3
+P2Kanpur1
+P2Kanpur2
+P2Kanpur3
+P2Kanpur4
+P2Jaipur1
+P2Jaipur2
+P2Jaipur3
+P2Faridabad4
+P2Ludhiana1
+P2Ludhiana2
+P2Ludhiana3
+P2Ludhiana4
+P2Jammu1
+P2Pune1
+P2Pune2
+P2Agra1
+P2Agra2
+P2Kolkata1
+P2Kolkata2
+P2Kolkata3
+P2Surat1
+P2Surat2
+P2Surat3
+P2Nagpur1
+P3Kolkata1
+P3Mangalore1
+P3Mangalore2
+P3Hyderabad1
+P3Hyderabad2
+P3Jammu1
+P3Jammu2
+P3Bangalore1
+P3Bangalore2
+P3Bangalore3
+P3Bangalore4
+P3Ahmedabad1
+P3Jamshedpur1
+P3Jamshedpur2
+P3Jamshedpur3
+P3Vadodara1
+P3Vadodara2
+P3Vadodara3
+P3Nashik1
+P3Nashik2
+P3Nashik3
+P3Agra1
+P3Agra2
+P3Agra3
+P3Agra4
+P3Vadodara4
+P3Pune1
+P3Pune2
+P3Pune3
+P3Visakhapatnam1
+P3Visakhapatnam2
+P3Visakhapatnam3
+---------------------------------------------------
+---------------------------------------------------
+Delivered parcels: ['P1Bangalore1', 'P1Bangalore2', 'P1Mumbai1', 'P1Kolkata1', 'P1Kolkata2', 'P1Kolkata3', 'P2Pune1', 'P2Pune2', 'P2Agra1', 'P2Agra2', 'P2Kolkata1', 'P2Kolkata2', 'P2Kolkata3', 'P3Mangalore1', 'P3Hyderabad1', 'P3Hyderabad2', 'P3Jammu1', 'P3Jammu2', 'P3Bangalore1', 'P3Bangalore2', 'P3Bangalore3', 'P3Bangalore4', 'P3Nashik1', 'P3Nashik2', 'P3Nashik3', 'P3Visakhapatnam1', 'P3Visakhapatnam2', 'P3Visakhapatnam3']
+Stranded parcels: ['P1Jammu1', 'P1Jammu2', 'P1Jammu3', 'P1Jammu4', 'P1Vadodara1', 'P1Vadodara2', 'P1Vadodara3', 'P1Tirupati1', 'P1Tirupati2', 'P1Faridabad1', 'P1Madurai1', 'P1Chennai1', 'P1Chennai2', 'P1Chennai3', 'P1Agra1', 'P1Agra2', 'P1Agra3', 'P1Agra4', 'P1Ambala1', 'P1Tirupati3', 'P1Nagpur1', 'P1Nagpur2', 'P2Faridabad1', 'P2Faridabad2', 'P2Faridabad3', 'P2Kanpur1', 'P2Kanpur2', 'P2Kanpur3', 'P2Kanpur4', 'P2Jaipur1', 'P2Jaipur2', 'P2Jaipur3', 'P2Faridabad4', 'P2Ludhiana1', 'P2Ludhiana2', 'P2Ludhiana3', 'P2Ludhiana4', 'P2Jammu1', 'P2Surat1', 'P2Surat2', 'P2Surat3', 'P2Nagpur1', 'P3Kolkata1', 'P3Mangalore2', 'P3Ahmedabad1', 'P3Jamshedpur1', 'P3Jamshedpur2', 'P3Jamshedpur3', 'P3Vadodara1', 'P3Vadodara2', 'P3Vadodara3', 'P3Agra1', 'P3Agra2', 'P3Agra3', 'P3Agra4', 'P3Vadodara4', 'P3Pune1', 'P3Pune2', 'P3Pune3']
+---------------------------------------------------
+['P1Jammu1', 'P1Jammu2', 'P1Jammu3', 'P1Jammu4', 'P1Vadodara1', 'P1Vadodara2', 'P1Vadodara3', 'P1Tirupati1', 'P1Tirupati2', 'P1Faridabad1', 'P1Madurai1', 'P1Chennai1', 'P1Chennai2', 'P1Chennai3', 'P1Agra1', 'P1Agra2', 'P1Agra3', 'P1Agra4', 'P1Ambala1', 'P1Tirupati3', 'P1Nagpur1', 'P1Nagpur2', 'P2Faridabad1', 'P2Faridabad2', 'P2Faridabad3', 'P2Kanpur1', 'P2Kanpur2', 'P2Kanpur3', 'P2Kanpur4', 'P2Jaipur1', 'P2Jaipur2', 'P2Jaipur3', 'P2Faridabad4', 'P2Ludhiana1', 'P2Ludhiana2', 'P2Ludhiana3', 'P2Ludhiana4', 'P2Jammu1', 'P2Surat1', 'P2Surat2', 'P2Surat3', 'P2Nagpur1', 'P3Kolkata1', 'P3Mangalore2', 'P3Ahmedabad1', 'P3Jamshedpur1', 'P3Jamshedpur2', 'P3Jamshedpur3', 'P3Vadodara1', 'P3Vadodara2', 'P3Vadodara3', 'P3Agra1', 'P3Agra2', 'P3Agra3', 'P3Agra4', 'P3Vadodara4', 'P3Pune1', 'P3Pune2', 'P3Pune3']

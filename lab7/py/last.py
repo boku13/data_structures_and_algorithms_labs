@@ -139,9 +139,6 @@ class Graph:
         return dfs_recursive(source, [source])
 
     def bfs_link(self, vertex, destination_city):
-        # print(self.bfs(vertex.name, destination_city))
-        if len(self.bfs(vertex.name, destination_city)) == 1:
-            return None
         return self.bfs(vertex.name, destination_city)[1]
     
     
@@ -150,7 +147,6 @@ class Graph:
         for vertex in self.vertices.values(): 
             print(vertex.name)
             print(vertex.freight_cars_can_move)
-            vertex.group_freight_cars()
             for destination_city, cars in vertex.freight_cars_can_move.items():
                 print(f" Destination : {destination_city} ")
                 print(len(cars))
@@ -158,20 +154,14 @@ class Graph:
                     print(f"Searching for Bfs link from {vertex.name}  to {destination_city}")
                     link = self.bfs_link(vertex, destination_city)
                     print(f"Next Link : {link}")
-                    if link == None:
-                        
-                        continue
                     for car in cars:
-                        car.next_link = link
                         if link not in vertex.trains_to_move:
                             vertex.trains_to_move[link] = []
                         vertex.trains_to_move[link].append(car)
             
                 else: 
-                    
                     link = self.dfs(vertex.name, destination_city)
 
-                            
 
     def moveTrains(self):
         # move trains  (constitutes one time tick)
@@ -189,7 +179,9 @@ class Graph:
             vertex.freight_cars = [car for car in vertex.freight_cars if car.current_location == vertex.name]
             vertex.freight_cars_can_move.clear()
             vertex.trains_to_move.clear()
-            
+
+        
+    
     def train_can_move(self):
         pass
 
@@ -309,6 +301,7 @@ class FreightCar:   #done
             for parcel in self.parcels:
                 parcel.delivered = True
         print("empty check:")
+        self.parcels.clear()
         print(self.parcels)
         
 
@@ -336,13 +329,9 @@ class PRC:
         self.min_freight_cars_to_move = min_freight_cars_to_move
         self.max_parcel_capacity = max_parcel_capacity
         self.time_tick = 1
-
         self.old_state = None
         self.new_state = None
-
         self.max_time_tick = 10
-
-
     
     def get_state_of_parcels(self):
         return {x.parcel_id:x.current_location for x in self.parcels.values()}
@@ -381,176 +370,27 @@ class PRC:
         if run_till_time_tick is not None:
             self.max_time_tick = run_till_time_tick
         
-        while self.time_tick < self.max_time_tick:
-        #wont i have to put an equal to here? putting an equal to fails test case by exactly one time tick    
+        # while self.time_tick <= self.max_time_tick:
+        while self.time_tick <= 3:
             
-            
-            
-            
-        # while self.time_tick <= 2:
-        
-            # receive parcel at current time tick
-            # load parcel into the freight car
-            # compute the next link with bfs 
-            # connect cars to form train
-            # update states/location
-            # if all parcels are delivered, stop simulation
-            # if the states aren't being updated, stop simulation
             self.old_state = self.new_state
             self.new_state = self.get_state_of_parcels()
-            
-            # print(self.get_state_of_parcels())
-            
-            # print("---------------------------------------------------")
-            # print("Parcels with time tick")
-            # print("\n")
-            
-            # print(self.parcels_with_time_tick)
-            # print("Status of parcels at time tick:", self.status_of_parcels_at_time_tick(self.time_tick))
-            
-            # print("\n")
-            # print(self.parcels_with_time_tick[1][0].parcel_id)
-            # print("---")
-            
-            # print("Parcles at a particular tick")
-            # print(self.parcels_with_time_tick[self.time_tick])
-            
-            # Process parcels for the current time tick
             print(f"TIME TICK TIME TIME TICK : {self.time_tick} ----------------------------")
             print("---------------------------------------------------")      
-            
-            # print(f"All parcels to be loaded at a time tick : {self.time_tick}")
-            # if self.time_tick in self.parcels_with_time_tick:
-            #     for parcel in self.parcels_with_time_tick[self.time_tick]:
-            #         print(parcel.parcel_id)
-            
-            # print("------------------------------------------------------")
+        
             if self.time_tick in self.parcels_with_time_tick:
                 for parcel in self.parcels_with_time_tick[self.time_tick]:
-                    # print(parcel.parcel_id)
                     new_bookings = self.getNewBookingsatTimeTickatVertex(self.time_tick, parcel.origin)
-                    print(f"Time Tick : {self.time_tick}, Parcel Origin : {parcel.origin} ")
-                    # for booking in new_bookings:
-                    #     print(booking.parcel_id)
-                    
-                    # print("-------------------------------------------------------------------")
-                    
                     vertex = self.graph.vertices[parcel.origin]
-                    if parcel.current_location == parcel.origin:
-                        vertex.loadParcel(parcel)
-                    
-                    # print(f"Parcel Loaded : {parcel.parcel_id}")
-                           
-                        # print("Loaded Parcels")
-                        # for parcel in self.graph.vertices[parcel.origin].all_parcels:
-                            
-                        #     print(parcel.parcel_id)  
-            
-            print("---------------------------------------------------")      
-
+                    vertex.loadParcel(parcel)
+                      
             for vertex in self.graph.vertices.values():
-                for car in vertex.freight_cars:
-                    if car.current_location == vertex.name:
-                        print(f"Freight Car at {vertex.name} :")
-                        print(f"Origin : {car.origin}, Destination : {car.destination}")
-                        for parcel in car.parcels:
-                            print(parcel.parcel_id, parcel.priority)
-                        print("---------------------------------------------------")
-                
-            print("---------------------------------------------------")      
-            
-            #checking the heaps
-            for city, vertex in self.graph.vertices.items():
-                for destination, heap in vertex.parcel_destination_heaps.items():
-                    print(f"Parcels in heap for {destination} at {city}:")
-                    for parcel in heap.heap:
-                        print(parcel.parcel_id)
-    
-            
-            print("---------------------------------------------------")  
-            
-            # Update states for all vertices
-            for vertex in self.graph.vertices.values():
-                #unecessary for tick 1
                 vertex.clean_unmoved_freight_cars() #check if this working
-                
                 vertex.loadFreightCars()
                 vertex.group_freight_cars()
-            
-            print("---------------------------------------------------")
-            
-            for city, vertex in self.graph.vertices.items():
-                print(f"Final Loaded Cars at {city} :")
-                # print(vertex.freight_cars)
-                for car in vertex.freight_cars:
-                    print("--------------------------------------")
-                    print(car.current_location, car.destination)
-                    print(car.parcels)
-                    for parcel in car.parcels:
-                        print(parcel.parcel_id, parcel.priority)
-                    print("--------------------------------------")
-                        
-                        
-            print("---------------------------------------------------")
-              
-            #make trains
+
             self.graph.groupFreightCars()  
-            
-            i = 0
-            for city, vertex in self.graph.vertices.items():
-                print(f"Final Trains {city} :")
-                # print(vertex.freight_cars)
-                for destination, cars in vertex.trains_to_move.items():
-                    print("--------------------------------------")
-                    print("--------------------------------------")
-                    for car in cars:
-                        i+=1
-                        print("--------------------------------------")
-                        for parcel in car.parcels:
-                            print(parcel.parcel_id)
-                    print("--------------------------------------")
-            
-            print("---------------------------------------------------")
-                 
-            for city, vertex in self.graph.vertices.items():
-                for destination, cars in vertex.trains_to_move.items():
-                    print(f"At {vertex.name}, outbound to {destination}")
-                    for car in cars:
-                        print("--------------------------------------")
-                        print("Origin : ", car.origin, "going :", car.next_link, "Destination", car.destination)
-                        for parcel in car.parcels:
-                            print(parcel.parcel_id, parcel.priority)
-                        print("--------------------------------------")
-
-            # Move trains
-
-            #do i need to retain the order in which i put parcels into max heap?
-            
             self.graph.moveTrains()
-            
-            print("---------------------------------------------------")
-            
-            print("Time tick:", self.time_tick)
-            print("---------------------------------------------------")
-            print("Parcels delivered up to time tick:", self.get_parcels_delivered_upto_time_tick(self.time_tick))
-            print("---------------------------------------------------")
-            
-            print("State of parcels:")
-            # for bruh in self.get_state_of_parcels():
-            #     print(bruh)
-            print(self.get_state_of_parcels())
-            print("---------------------------------------------------")
-            
-           
-            print("---------------------------------------------------")
-            
-            
-            print("Delivered parcels:", self.get_delivered_parcels())
-            
-            print("Stranded parcels:", self.get_stranded_parcels())
-            
-            print("---------------------------------------------------")
-            
             
             if self.convergence_check(self.old_state, self.new_state):
                 break
@@ -560,10 +400,8 @@ class PRC:
 
     def convergence_check(self, previous_state, current_state):
         # return True if convergence achieved, False otherwise
-        if previous_state == current_state:
-            return True
-        else:
-            return False
+        
+        pass
 
     def all_parcels_delivered(self):
         return all(parcel.delivered for _,parcel in self.parcels.items())
@@ -601,7 +439,6 @@ if __name__ == "__main__":
 
     prc.create_graph('samples/5/graph.txt')
     prc.process_parcels('samples/5/bookings.txt')
-    prc.graph.print_graph_edges()
 
     prc.run_simulation()
 
