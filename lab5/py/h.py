@@ -27,9 +27,8 @@ def test_populate_tree():
     tree.set_root(None)
     for line in lines:
         if tree.root is None:
-            # tree.set_root(AVLNode(line.stops[0]))
-            tree.set_root(AVLNode(line.node.stop_name))
-        tree.populate_tree(line) 
+            tree.set_root(AVLNode(line.stops[0]))
+        tree.populate_tree(line)
     print("Height of tree:", tree.height(tree.root))
     print("Total nodes in tree:", tree.get_total_nodes(tree.root))
     assert tree.height(tree.root) == 9
@@ -57,4 +56,3 @@ if __name__ == "__main__":
 
     for test in tests:
         test()
-    # print("Done.")

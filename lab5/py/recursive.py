@@ -144,7 +144,7 @@ class AVLTree:
             return 0
         else:
             return -1
-
+        
     def balance_factor(self, node):
         return (self.height(node.left) - self.height(node.right))
 

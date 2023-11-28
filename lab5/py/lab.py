@@ -126,8 +126,9 @@ class AVLTree:
 
     def balance(self, node):
         bf = self.balanceFactor(node)
+        
         if bf > 1 and node.left.left is not None:
-            return self.rotateRight(node)
+            node.left = self.rotateRight(node)
         if bf < -1 and node.right.right is not None:
             return self.rotateLeft(node)
         elif 
@@ -163,6 +164,7 @@ class AVLTree:
             parent.left = avl_node
         elif comparision_factor == -1:
             parent.right = avl_node
+            
         
     def populateTree(self, metroLine):
         tail = metroLine.node
