@@ -53,7 +53,7 @@ class PhoneBook:
             x = x*263
             term = term%p
             calc +=term
-            print(count, ":", calc)
+            # print(count, ":", calc)
             count+=1
                 
         m = 263

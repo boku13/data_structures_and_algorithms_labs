@@ -1,5 +1,5 @@
 # import your classes here
-from copium import MetroLine, AVLTree, AVLNode, PathFinder, lines
+from dude import MetroLine, AVLTree, AVLNode, PathFinder, lines
 
 def get_file_names():
     return ["blue.txt", "green.txt", "magenta.txt", "orange.txt", "red.txt", "violet.txt", "yellow.txt"]

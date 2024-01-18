@@ -1,5 +1,5 @@
 # import your classes here
-from copium import MetroLine, AVLTree, AVLNode, PathFinder, lines
+from dude import MetroLine, AVLTree, AVLNode, PathFinder, lines
 
 
 def get_file_names():
@@ -28,7 +28,9 @@ def test_populate_tree():
     tree.set_root(None)
     for line in lines:
         if tree.root is None:
-            tree.set_root(AVLNode(line.stops[0]))
+            # tree.set_root(AVLNode(line.stops[0]))
+            tree.set_root(AVLNode(line.node.stop_name))
+            
         tree.populate_tree(line)
     print("Height of tree:", tree.height(tree.root))
     print("Total nodes in tree:", tree.get_total_nodes(tree.root))
